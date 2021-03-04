@@ -1,0 +1,6600 @@
+1)FLSM di 93.178.176.133/5: 3 reti da 16777213 host ciascuna
+indirizzo:88.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:88.255.255.255
+range da 88.0.0.1 a 88.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:89.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:89.255.255.255
+range da 89.0.0.1 a 89.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:90.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:90.255.255.255
+range da 90.0.0.1 a 90.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+2)FLSM di 101.166.117.112/16: 3 reti da 8189 host ciascuna
+indirizzo:101.166.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.166.31.255
+range da 101.166.0.1 a 101.166.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:101.166.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.166.63.255
+range da 101.166.32.1 a 101.166.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:101.166.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.166.95.255
+range da 101.166.64.1 a 101.166.95.254
+magic number:32
+N:16 H:13 S:3
+
+3)FLSM di 12.202.31.86/27: 3 reti da 1 host ciascuna
+indirizzo:12.202.31.64/30
+netmask: 255.255.255.252
+indirizzo broadcast:12.202.31.67
+range da 12.202.31.65 a 12.202.31.66
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:12.202.31.68/30
+netmask: 255.255.255.252
+indirizzo broadcast:12.202.31.71
+range da 12.202.31.69 a 12.202.31.70
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:12.202.31.72/30
+netmask: 255.255.255.252
+indirizzo broadcast:12.202.31.75
+range da 12.202.31.73 a 12.202.31.74
+magic number:4
+N:27 H:2 S:3
+
+4)FLSM di 74.137.161.253/11: 3 reti da 262141 host ciascuna
+indirizzo:74.128.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:74.131.255.255
+range da 74.128.0.1 a 74.131.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:74.132.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:74.135.255.255
+range da 74.132.0.1 a 74.135.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:74.136.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:74.139.255.255
+range da 74.136.0.1 a 74.139.255.254
+magic number:4
+N:11 H:18 S:3
+
+5)FLSM di 107.154.6.65/26: 3 reti da 5 host ciascuna
+indirizzo:107.154.6.64/29
+netmask: 255.255.255.248
+indirizzo broadcast:107.154.6.71
+range da 107.154.6.65 a 107.154.6.70
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:107.154.6.72/29
+netmask: 255.255.255.248
+indirizzo broadcast:107.154.6.79
+range da 107.154.6.73 a 107.154.6.78
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:107.154.6.80/29
+netmask: 255.255.255.248
+indirizzo broadcast:107.154.6.87
+range da 107.154.6.81 a 107.154.6.86
+magic number:8
+N:26 H:3 S:3
+
+6)FLSM di 107.157.34.164/20: 3 reti da 509 host ciascuna
+indirizzo:107.157.32.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:107.157.33.255
+range da 107.157.32.1 a 107.157.33.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:107.157.34.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:107.157.35.255
+range da 107.157.34.1 a 107.157.35.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:107.157.36.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:107.157.37.255
+range da 107.157.36.1 a 107.157.37.254
+magic number:2
+N:20 H:9 S:3
+
+7)FLSM di 65.36.143.66/5: 3 reti da 16777213 host ciascuna
+indirizzo:64.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:64.255.255.255
+range da 64.0.0.1 a 64.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:65.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 65.0.0.1 a 65.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:66.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:66.255.255.255
+range da 66.0.0.1 a 66.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+8)FLSM di 40.207.58.116/26: 3 reti da 5 host ciascuna
+indirizzo:40.207.58.64/29
+netmask: 255.255.255.248
+indirizzo broadcast:40.207.58.71
+range da 40.207.58.65 a 40.207.58.70
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:40.207.58.72/29
+netmask: 255.255.255.248
+indirizzo broadcast:40.207.58.79
+range da 40.207.58.73 a 40.207.58.78
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:40.207.58.80/29
+netmask: 255.255.255.248
+indirizzo broadcast:40.207.58.87
+range da 40.207.58.81 a 40.207.58.86
+magic number:8
+N:26 H:3 S:3
+
+9)FLSM di 63.228.167.224/22: 3 reti da 125 host ciascuna
+indirizzo:63.228.164.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:63.228.164.127
+range da 63.228.164.1 a 63.228.164.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:63.228.164.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:63.228.164.255
+range da 63.228.164.129 a 63.228.164.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:63.228.165.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:63.228.165.127
+range da 63.228.165.1 a 63.228.165.126
+magic number:128
+N:22 H:7 S:3
+
+10)FLSM di 110.89.92.9/3: 3 reti da 67108861 host ciascuna
+indirizzo:96.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:99.255.255.255
+range da 96.0.0.1 a 99.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:100.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:103.255.255.255
+range da 100.0.0.1 a 103.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:104.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:107.255.255.255
+range da 104.0.0.1 a 107.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+11)FLSM di 111.92.254.166/21: 3 reti da 253 host ciascuna
+indirizzo:111.92.248.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:111.92.248.255
+range da 111.92.248.1 a 111.92.248.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:111.92.249.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:111.92.249.255
+range da 111.92.249.1 a 111.92.249.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:111.92.250.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:111.92.250.255
+range da 111.92.250.1 a 111.92.250.254
+magic number:1
+N:21 H:8 S:3
+
+12)FLSM di 87.118.200.46/24: 3 reti da 29 host ciascuna
+indirizzo:87.118.200.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:87.118.200.31
+range da 87.118.200.1 a 87.118.200.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:87.118.200.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:87.118.200.63
+range da 87.118.200.33 a 87.118.200.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:87.118.200.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:87.118.200.95
+range da 87.118.200.65 a 87.118.200.94
+magic number:32
+N:24 H:5 S:3
+
+13)FLSM di 92.27.140.92/14: 3 reti da 32765 host ciascuna
+indirizzo:92.24.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:92.24.127.255
+range da 92.24.0.1 a 92.24.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:92.24.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:92.24.255.255
+range da 92.24.128.1 a 92.24.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:92.25.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:92.25.127.255
+range da 92.25.0.1 a 92.25.127.254
+magic number:128
+N:14 H:15 S:3
+
+14)FLSM di 118.110.28.164/3: 3 reti da 67108861 host ciascuna
+indirizzo:96.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:99.255.255.255
+range da 96.0.0.1 a 99.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:100.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:103.255.255.255
+range da 100.0.0.1 a 103.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:104.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:107.255.255.255
+range da 104.0.0.1 a 107.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+15)FLSM di 88.191.235.184/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+16)FLSM di 49.237.0.250/15: 3 reti da 16381 host ciascuna
+indirizzo:49.236.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:49.236.63.255
+range da 49.236.0.1 a 49.236.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:49.236.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:49.236.127.255
+range da 49.236.64.1 a 49.236.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:49.236.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:49.236.191.255
+range da 49.236.128.1 a 49.236.191.254
+magic number:64
+N:15 H:14 S:3
+
+17)FLSM di 122.97.19.249/8: 3 reti da 2097149 host ciascuna
+indirizzo:122.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:122.31.255.255
+range da 122.0.0.1 a 122.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:122.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:122.63.255.255
+range da 122.32.0.1 a 122.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:122.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:122.95.255.255
+range da 122.64.0.1 a 122.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+18)FLSM di 19.230.46.74/4: 3 reti da 33554429 host ciascuna
+indirizzo:16.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:17.255.255.255
+range da 16.0.0.1 a 17.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:18.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:19.255.255.255
+range da 18.0.0.1 a 19.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:20.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:21.255.255.255
+range da 20.0.0.1 a 21.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+19)FLSM di 119.140.26.59/21: 3 reti da 253 host ciascuna
+indirizzo:119.140.24.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:119.140.24.255
+range da 119.140.24.1 a 119.140.24.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:119.140.25.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:119.140.25.255
+range da 119.140.25.1 a 119.140.25.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:119.140.26.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:119.140.26.255
+range da 119.140.26.1 a 119.140.26.254
+magic number:1
+N:21 H:8 S:3
+
+20)FLSM di 123.205.233.18/26: 3 reti da 5 host ciascuna
+indirizzo:123.205.233.0/29
+netmask: 255.255.255.248
+indirizzo broadcast:123.205.233.7
+range da 123.205.233.1 a 123.205.233.6
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:123.205.233.8/29
+netmask: 255.255.255.248
+indirizzo broadcast:123.205.233.15
+range da 123.205.233.9 a 123.205.233.14
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:123.205.233.16/29
+netmask: 255.255.255.248
+indirizzo broadcast:123.205.233.23
+range da 123.205.233.17 a 123.205.233.22
+magic number:8
+N:26 H:3 S:3
+
+21)FLSM di 44.81.7.20/25: 3 reti da 13 host ciascuna
+indirizzo:44.81.7.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:44.81.7.15
+range da 44.81.7.1 a 44.81.7.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:44.81.7.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:44.81.7.31
+range da 44.81.7.17 a 44.81.7.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:44.81.7.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:44.81.7.47
+range da 44.81.7.33 a 44.81.7.46
+magic number:16
+N:25 H:4 S:3
+
+22)FLSM di 87.144.23.100/10: 3 reti da 524285 host ciascuna
+indirizzo:87.128.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:87.135.255.255
+range da 87.128.0.1 a 87.135.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:87.136.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:87.143.255.255
+range da 87.136.0.1 a 87.143.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:87.144.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:87.151.255.255
+range da 87.144.0.1 a 87.151.255.254
+magic number:8
+N:10 H:19 S:3
+
+23)FLSM di 118.113.167.205/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+24)FLSM di 96.39.178.2/14: 3 reti da 32765 host ciascuna
+indirizzo:96.36.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:96.36.127.255
+range da 96.36.0.1 a 96.36.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:96.36.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:96.36.255.255
+range da 96.36.128.1 a 96.36.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:96.37.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:96.37.127.255
+range da 96.37.0.1 a 96.37.127.254
+magic number:128
+N:14 H:15 S:3
+
+25)FLSM di 31.166.141.142/18: 3 reti da 2045 host ciascuna
+indirizzo:31.166.128.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:31.166.135.255
+range da 31.166.128.1 a 31.166.135.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:31.166.136.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:31.166.143.255
+range da 31.166.136.1 a 31.166.143.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:31.166.144.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:31.166.151.255
+range da 31.166.144.1 a 31.166.151.254
+magic number:8
+N:18 H:11 S:3
+
+26)FLSM di 41.47.20.157/24: 3 reti da 29 host ciascuna
+indirizzo:41.47.20.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:41.47.20.31
+range da 41.47.20.1 a 41.47.20.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:41.47.20.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:41.47.20.63
+range da 41.47.20.33 a 41.47.20.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:41.47.20.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:41.47.20.95
+range da 41.47.20.65 a 41.47.20.94
+magic number:32
+N:24 H:5 S:3
+
+27)FLSM di 105.48.149.55/15: 3 reti da 16381 host ciascuna
+indirizzo:105.48.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:105.48.63.255
+range da 105.48.0.1 a 105.48.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:105.48.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:105.48.127.255
+range da 105.48.64.1 a 105.48.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:105.48.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:105.48.191.255
+range da 105.48.128.1 a 105.48.191.254
+magic number:64
+N:15 H:14 S:3
+
+28)FLSM di 19.170.198.112/21: 3 reti da 253 host ciascuna
+indirizzo:19.170.192.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:19.170.192.255
+range da 19.170.192.1 a 19.170.192.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:19.170.193.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:19.170.193.255
+range da 19.170.193.1 a 19.170.193.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:19.170.194.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:19.170.194.255
+range da 19.170.194.1 a 19.170.194.254
+magic number:1
+N:21 H:8 S:3
+
+29)FLSM di 30.49.153.211/5: 3 reti da 16777213 host ciascuna
+indirizzo:24.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:24.255.255.255
+range da 24.0.0.1 a 24.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:25.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:25.255.255.255
+range da 25.0.0.1 a 25.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:26.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:26.255.255.255
+range da 26.0.0.1 a 26.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+30)FLSM di 101.125.185.37/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+31)FLSM di 93.43.61.213/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+32)FLSM di 31.189.225.27/13: 3 reti da 65533 host ciascuna
+indirizzo:31.184.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:31.184.255.255
+range da 31.184.0.1 a 31.184.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:31.185.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:31.185.255.255
+range da 31.185.0.1 a 31.185.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:31.186.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:31.186.255.255
+range da 31.186.0.1 a 31.186.255.254
+magic number:1
+N:13 H:16 S:3
+
+33)FLSM di 87.211.183.182/16: 3 reti da 8189 host ciascuna
+indirizzo:87.211.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:87.211.31.255
+range da 87.211.0.1 a 87.211.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:87.211.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:87.211.63.255
+range da 87.211.32.1 a 87.211.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:87.211.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:87.211.95.255
+range da 87.211.64.1 a 87.211.95.254
+magic number:32
+N:16 H:13 S:3
+
+34)FLSM di 2.246.213.227/15: 3 reti da 16381 host ciascuna
+indirizzo:2.246.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.246.63.255
+range da 2.246.0.1 a 2.246.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:2.246.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.246.127.255
+range da 2.246.64.1 a 2.246.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:2.246.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.246.191.255
+range da 2.246.128.1 a 2.246.191.254
+magic number:64
+N:15 H:14 S:3
+
+35)FLSM di 113.154.85.33/5: 3 reti da 16777213 host ciascuna
+indirizzo:112.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:112.255.255.255
+range da 112.0.0.1 a 112.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:113.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:113.255.255.255
+range da 113.0.0.1 a 113.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:114.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:114.255.255.255
+range da 114.0.0.1 a 114.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+36)FLSM di 15.204.225.202/9: 3 reti da 1048573 host ciascuna
+indirizzo:15.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:15.143.255.255
+range da 15.128.0.1 a 15.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:15.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:15.159.255.255
+range da 15.144.0.1 a 15.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:15.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:15.175.255.255
+range da 15.160.0.1 a 15.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+37)FLSM di 47.190.205.95/6: 3 reti da 8388605 host ciascuna
+indirizzo:44.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:44.127.255.255
+range da 44.0.0.1 a 44.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:44.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:44.255.255.255
+range da 44.128.0.1 a 44.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:45.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:45.127.255.255
+range da 45.0.0.1 a 45.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+38)FLSM di 89.147.190.199/13: 3 reti da 65533 host ciascuna
+indirizzo:89.144.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:89.144.255.255
+range da 89.144.0.1 a 89.144.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:89.145.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:89.145.255.255
+range da 89.145.0.1 a 89.145.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:89.146.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:89.146.255.255
+range da 89.146.0.1 a 89.146.255.254
+magic number:1
+N:13 H:16 S:3
+
+39)FLSM di 28.34.199.195/7: 3 reti da 4194301 host ciascuna
+indirizzo:28.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.63.255.255
+range da 28.0.0.1 a 28.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:28.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.127.255.255
+range da 28.64.0.1 a 28.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:28.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.191.255.255
+range da 28.128.0.1 a 28.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+40)FLSM di 7.70.66.159/25: 3 reti da 13 host ciascuna
+indirizzo:7.70.66.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:7.70.66.143
+range da 7.70.66.129 a 7.70.66.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:7.70.66.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:7.70.66.159
+range da 7.70.66.145 a 7.70.66.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:7.70.66.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:7.70.66.175
+range da 7.70.66.161 a 7.70.66.174
+magic number:16
+N:25 H:4 S:3
+
+41)FLSM di 94.234.12.222/9: 3 reti da 1048573 host ciascuna
+indirizzo:94.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:94.143.255.255
+range da 94.128.0.1 a 94.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:94.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:94.159.255.255
+range da 94.144.0.1 a 94.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:94.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:94.175.255.255
+range da 94.160.0.1 a 94.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+42)FLSM di 62.10.138.63/8: 3 reti da 2097149 host ciascuna
+indirizzo:62.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:62.31.255.255
+range da 62.0.0.1 a 62.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:62.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:62.63.255.255
+range da 62.32.0.1 a 62.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:62.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:62.95.255.255
+range da 62.64.0.1 a 62.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+43)FLSM di 61.203.173.114/15: 3 reti da 16381 host ciascuna
+indirizzo:61.202.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:61.202.63.255
+range da 61.202.0.1 a 61.202.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:61.202.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:61.202.127.255
+range da 61.202.64.1 a 61.202.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:61.202.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:61.202.191.255
+range da 61.202.128.1 a 61.202.191.254
+magic number:64
+N:15 H:14 S:3
+
+44)FLSM di 39.71.235.131/15: 3 reti da 16381 host ciascuna
+indirizzo:39.70.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:39.70.63.255
+range da 39.70.0.1 a 39.70.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:39.70.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:39.70.127.255
+range da 39.70.64.1 a 39.70.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:39.70.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:39.70.191.255
+range da 39.70.128.1 a 39.70.191.254
+magic number:64
+N:15 H:14 S:3
+
+45)FLSM di 121.84.53.136/24: 3 reti da 29 host ciascuna
+indirizzo:121.84.53.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:121.84.53.31
+range da 121.84.53.1 a 121.84.53.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:121.84.53.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:121.84.53.63
+range da 121.84.53.33 a 121.84.53.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:121.84.53.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:121.84.53.95
+range da 121.84.53.65 a 121.84.53.94
+magic number:32
+N:24 H:5 S:3
+
+46)FLSM di 25.196.35.242/6: 3 reti da 8388605 host ciascuna
+indirizzo:24.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:24.127.255.255
+range da 24.0.0.1 a 24.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:24.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:24.255.255.255
+range da 24.128.0.1 a 24.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:25.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:25.127.255.255
+range da 25.0.0.1 a 25.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+47)FLSM di 110.146.244.1/19: 3 reti da 1021 host ciascuna
+indirizzo:110.146.224.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.146.227.255
+range da 110.146.224.1 a 110.146.227.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:110.146.228.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.146.231.255
+range da 110.146.228.1 a 110.146.231.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:110.146.232.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.146.235.255
+range da 110.146.232.1 a 110.146.235.254
+magic number:4
+N:19 H:10 S:3
+
+48)FLSM di 117.179.137.29/22: 3 reti da 125 host ciascuna
+indirizzo:117.179.136.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:117.179.136.127
+range da 117.179.136.1 a 117.179.136.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:117.179.136.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:117.179.136.255
+range da 117.179.136.129 a 117.179.136.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:117.179.137.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:117.179.137.127
+range da 117.179.137.1 a 117.179.137.126
+magic number:128
+N:22 H:7 S:3
+
+49)FLSM di 93.32.128.54/21: 3 reti da 253 host ciascuna
+indirizzo:93.32.128.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:93.32.128.255
+range da 93.32.128.1 a 93.32.128.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:93.32.129.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:93.32.129.255
+range da 93.32.129.1 a 93.32.129.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:93.32.130.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:93.32.130.255
+range da 93.32.130.1 a 93.32.130.254
+magic number:1
+N:21 H:8 S:3
+
+50)FLSM di 45.211.69.36/19: 3 reti da 1021 host ciascuna
+indirizzo:45.211.64.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:45.211.67.255
+range da 45.211.64.1 a 45.211.67.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:45.211.68.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:45.211.71.255
+range da 45.211.68.1 a 45.211.71.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:45.211.72.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:45.211.75.255
+range da 45.211.72.1 a 45.211.75.254
+magic number:4
+N:19 H:10 S:3
+
+51)FLSM di 126.96.56.120/24: 3 reti da 29 host ciascuna
+indirizzo:126.96.56.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:126.96.56.31
+range da 126.96.56.1 a 126.96.56.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:126.96.56.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:126.96.56.63
+range da 126.96.56.33 a 126.96.56.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:126.96.56.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:126.96.56.95
+range da 126.96.56.65 a 126.96.56.94
+magic number:32
+N:24 H:5 S:3
+
+52)FLSM di 45.136.189.175/12: 3 reti da 131069 host ciascuna
+indirizzo:45.128.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:45.129.255.255
+range da 45.128.0.1 a 45.129.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:45.130.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:45.131.255.255
+range da 45.130.0.1 a 45.131.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:45.132.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:45.133.255.255
+range da 45.132.0.1 a 45.133.255.254
+magic number:2
+N:12 H:17 S:3
+
+53)FLSM di 19.241.209.117/23: 3 reti da 61 host ciascuna
+indirizzo:19.241.208.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:19.241.208.63
+range da 19.241.208.1 a 19.241.208.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:19.241.208.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:19.241.208.127
+range da 19.241.208.65 a 19.241.208.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:19.241.208.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:19.241.208.191
+range da 19.241.208.129 a 19.241.208.190
+magic number:64
+N:23 H:6 S:3
+
+54)FLSM di 7.210.231.53/12: 3 reti da 131069 host ciascuna
+indirizzo:7.208.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:7.209.255.255
+range da 7.208.0.1 a 7.209.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:7.210.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:7.211.255.255
+range da 7.210.0.1 a 7.211.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:7.212.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:7.213.255.255
+range da 7.212.0.1 a 7.213.255.254
+magic number:2
+N:12 H:17 S:3
+
+55)FLSM di 121.121.19.165/12: 3 reti da 131069 host ciascuna
+indirizzo:121.112.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:121.113.255.255
+range da 121.112.0.1 a 121.113.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:121.114.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:121.115.255.255
+range da 121.114.0.1 a 121.115.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:121.116.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:121.117.255.255
+range da 121.116.0.1 a 121.117.255.254
+magic number:2
+N:12 H:17 S:3
+
+56)FLSM di 64.175.240.135/11: 3 reti da 262141 host ciascuna
+indirizzo:64.160.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:64.163.255.255
+range da 64.160.0.1 a 64.163.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:64.164.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:64.167.255.255
+range da 64.164.0.1 a 64.167.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:64.168.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:64.171.255.255
+range da 64.168.0.1 a 64.171.255.254
+magic number:4
+N:11 H:18 S:3
+
+57)FLSM di 65.110.252.181/5: 3 reti da 16777213 host ciascuna
+indirizzo:64.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:64.255.255.255
+range da 64.0.0.1 a 64.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:65.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 65.0.0.1 a 65.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:66.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:66.255.255.255
+range da 66.0.0.1 a 66.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+58)FLSM di 92.130.230.34/4: 3 reti da 33554429 host ciascuna
+indirizzo:80.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:81.255.255.255
+range da 80.0.0.1 a 81.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:82.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:83.255.255.255
+range da 82.0.0.1 a 83.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:84.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:85.255.255.255
+range da 84.0.0.1 a 85.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+59)FLSM di 126.143.204.176/7: 3 reti da 4194301 host ciascuna
+indirizzo:126.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.63.255.255
+range da 126.0.0.1 a 126.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:126.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.127.255.255
+range da 126.64.0.1 a 126.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:126.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.191.255.255
+range da 126.128.0.1 a 126.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+60)FLSM di 35.178.105.182/15: 3 reti da 16381 host ciascuna
+indirizzo:35.178.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:35.178.63.255
+range da 35.178.0.1 a 35.178.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:35.178.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:35.178.127.255
+range da 35.178.64.1 a 35.178.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:35.178.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:35.178.191.255
+range da 35.178.128.1 a 35.178.191.254
+magic number:64
+N:15 H:14 S:3
+
+61)FLSM di 52.207.22.21/11: 3 reti da 262141 host ciascuna
+indirizzo:52.192.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:52.195.255.255
+range da 52.192.0.1 a 52.195.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:52.196.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:52.199.255.255
+range da 52.196.0.1 a 52.199.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:52.200.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:52.203.255.255
+range da 52.200.0.1 a 52.203.255.254
+magic number:4
+N:11 H:18 S:3
+
+62)FLSM di 109.72.6.175/12: 3 reti da 131069 host ciascuna
+indirizzo:109.64.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:109.65.255.255
+range da 109.64.0.1 a 109.65.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:109.66.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:109.67.255.255
+range da 109.66.0.1 a 109.67.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:109.68.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:109.69.255.255
+range da 109.68.0.1 a 109.69.255.254
+magic number:2
+N:12 H:17 S:3
+
+63)FLSM di 126.54.127.81/19: 3 reti da 1021 host ciascuna
+indirizzo:126.54.96.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:126.54.99.255
+range da 126.54.96.1 a 126.54.99.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:126.54.100.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:126.54.103.255
+range da 126.54.100.1 a 126.54.103.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:126.54.104.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:126.54.107.255
+range da 126.54.104.1 a 126.54.107.254
+magic number:4
+N:19 H:10 S:3
+
+64)FLSM di 78.236.155.234/9: 3 reti da 1048573 host ciascuna
+indirizzo:78.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:78.143.255.255
+range da 78.128.0.1 a 78.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:78.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:78.159.255.255
+range da 78.144.0.1 a 78.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:78.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:78.175.255.255
+range da 78.160.0.1 a 78.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+65)FLSM di 67.156.54.102/4: 3 reti da 33554429 host ciascuna
+indirizzo:64.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 64.0.0.1 a 65.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:66.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 66.0.0.1 a 67.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:68.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:69.255.255.255
+range da 68.0.0.1 a 69.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+66)FLSM di 117.106.194.114/13: 3 reti da 65533 host ciascuna
+indirizzo:117.104.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:117.104.255.255
+range da 117.104.0.1 a 117.104.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:117.105.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:117.105.255.255
+range da 117.105.0.1 a 117.105.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:117.106.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:117.106.255.255
+range da 117.106.0.1 a 117.106.255.254
+magic number:1
+N:13 H:16 S:3
+
+67)FLSM di 126.22.129.115/13: 3 reti da 65533 host ciascuna
+indirizzo:126.16.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:126.16.255.255
+range da 126.16.0.1 a 126.16.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:126.17.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:126.17.255.255
+range da 126.17.0.1 a 126.17.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:126.18.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:126.18.255.255
+range da 126.18.0.1 a 126.18.255.254
+magic number:1
+N:13 H:16 S:3
+
+68)FLSM di 50.44.17.175/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+69)FLSM di 61.128.236.194/5: 3 reti da 16777213 host ciascuna
+indirizzo:56.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:56.255.255.255
+range da 56.0.0.1 a 56.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:57.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:57.255.255.255
+range da 57.0.0.1 a 57.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:58.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:58.255.255.255
+range da 58.0.0.1 a 58.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+70)FLSM di 70.65.51.78/6: 3 reti da 8388605 host ciascuna
+indirizzo:68.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:68.127.255.255
+range da 68.0.0.1 a 68.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:68.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:68.255.255.255
+range da 68.128.0.1 a 68.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:69.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:69.127.255.255
+range da 69.0.0.1 a 69.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+71)FLSM di 7.232.36.71/18: 3 reti da 2045 host ciascuna
+indirizzo:7.232.0.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:7.232.7.255
+range da 7.232.0.1 a 7.232.7.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:7.232.8.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:7.232.15.255
+range da 7.232.8.1 a 7.232.15.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:7.232.16.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:7.232.23.255
+range da 7.232.16.1 a 7.232.23.254
+magic number:8
+N:18 H:11 S:3
+
+72)FLSM di 93.36.240.162/20: 3 reti da 509 host ciascuna
+indirizzo:93.36.240.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:93.36.241.255
+range da 93.36.240.1 a 93.36.241.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:93.36.242.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:93.36.243.255
+range da 93.36.242.1 a 93.36.243.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:93.36.244.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:93.36.245.255
+range da 93.36.244.1 a 93.36.245.254
+magic number:2
+N:20 H:9 S:3
+
+73)FLSM di 9.210.197.216/11: 3 reti da 262141 host ciascuna
+indirizzo:9.192.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:9.195.255.255
+range da 9.192.0.1 a 9.195.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:9.196.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:9.199.255.255
+range da 9.196.0.1 a 9.199.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:9.200.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:9.203.255.255
+range da 9.200.0.1 a 9.203.255.254
+magic number:4
+N:11 H:18 S:3
+
+74)FLSM di 1.170.68.69/5: 3 reti da 16777213 host ciascuna
+indirizzo:0.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:0.255.255.255
+range da 0.0.0.1 a 0.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:1.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:1.255.255.255
+range da 1.0.0.1 a 1.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:2.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:2.255.255.255
+range da 2.0.0.1 a 2.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+75)FLSM di 29.165.34.38/7: 3 reti da 4194301 host ciascuna
+indirizzo:28.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.63.255.255
+range da 28.0.0.1 a 28.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:28.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.127.255.255
+range da 28.64.0.1 a 28.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:28.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:28.191.255.255
+range da 28.128.0.1 a 28.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+76)FLSM di 98.195.11.175/21: 3 reti da 253 host ciascuna
+indirizzo:98.195.8.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:98.195.8.255
+range da 98.195.8.1 a 98.195.8.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:98.195.9.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:98.195.9.255
+range da 98.195.9.1 a 98.195.9.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:98.195.10.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:98.195.10.255
+range da 98.195.10.1 a 98.195.10.254
+magic number:1
+N:21 H:8 S:3
+
+77)FLSM di 43.160.0.151/16: 3 reti da 8189 host ciascuna
+indirizzo:43.160.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:43.160.31.255
+range da 43.160.0.1 a 43.160.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:43.160.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:43.160.63.255
+range da 43.160.32.1 a 43.160.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:43.160.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:43.160.95.255
+range da 43.160.64.1 a 43.160.95.254
+magic number:32
+N:16 H:13 S:3
+
+78)FLSM di 79.112.43.111/11: 3 reti da 262141 host ciascuna
+indirizzo:79.96.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:79.99.255.255
+range da 79.96.0.1 a 79.99.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:79.100.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:79.103.255.255
+range da 79.100.0.1 a 79.103.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:79.104.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:79.107.255.255
+range da 79.104.0.1 a 79.107.255.254
+magic number:4
+N:11 H:18 S:3
+
+79)FLSM di 113.206.95.178/4: 3 reti da 33554429 host ciascuna
+indirizzo:112.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:113.255.255.255
+range da 112.0.0.1 a 113.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:114.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:115.255.255.255
+range da 114.0.0.1 a 115.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:116.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:117.255.255.255
+range da 116.0.0.1 a 117.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+80)FLSM di 15.238.153.33/16: 3 reti da 8189 host ciascuna
+indirizzo:15.238.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.238.31.255
+range da 15.238.0.1 a 15.238.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:15.238.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.238.63.255
+range da 15.238.32.1 a 15.238.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:15.238.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.238.95.255
+range da 15.238.64.1 a 15.238.95.254
+magic number:32
+N:16 H:13 S:3
+
+81)FLSM di 12.77.30.222/11: 3 reti da 262141 host ciascuna
+indirizzo:12.64.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:12.67.255.255
+range da 12.64.0.1 a 12.67.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:12.68.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:12.71.255.255
+range da 12.68.0.1 a 12.71.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:12.72.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:12.75.255.255
+range da 12.72.0.1 a 12.75.255.254
+magic number:4
+N:11 H:18 S:3
+
+82)FLSM di 12.226.20.138/13: 3 reti da 65533 host ciascuna
+indirizzo:12.224.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:12.224.255.255
+range da 12.224.0.1 a 12.224.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:12.225.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:12.225.255.255
+range da 12.225.0.1 a 12.225.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:12.226.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:12.226.255.255
+range da 12.226.0.1 a 12.226.255.254
+magic number:1
+N:13 H:16 S:3
+
+83)FLSM di 99.209.222.132/18: 3 reti da 2045 host ciascuna
+indirizzo:99.209.192.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:99.209.199.255
+range da 99.209.192.1 a 99.209.199.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:99.209.200.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:99.209.207.255
+range da 99.209.200.1 a 99.209.207.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:99.209.208.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:99.209.215.255
+range da 99.209.208.1 a 99.209.215.254
+magic number:8
+N:18 H:11 S:3
+
+84)FLSM di 12.93.112.117/14: 3 reti da 32765 host ciascuna
+indirizzo:12.92.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:12.92.127.255
+range da 12.92.0.1 a 12.92.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:12.92.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:12.92.255.255
+range da 12.92.128.1 a 12.92.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:12.93.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:12.93.127.255
+range da 12.93.0.1 a 12.93.127.254
+magic number:128
+N:14 H:15 S:3
+
+85)FLSM di 100.142.169.96/12: 3 reti da 131069 host ciascuna
+indirizzo:100.128.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:100.129.255.255
+range da 100.128.0.1 a 100.129.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:100.130.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:100.131.255.255
+range da 100.130.0.1 a 100.131.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:100.132.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:100.133.255.255
+range da 100.132.0.1 a 100.133.255.254
+magic number:2
+N:12 H:17 S:3
+
+86)FLSM di 21.169.226.183/10: 3 reti da 524285 host ciascuna
+indirizzo:21.128.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:21.135.255.255
+range da 21.128.0.1 a 21.135.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:21.136.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:21.143.255.255
+range da 21.136.0.1 a 21.143.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:21.144.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:21.151.255.255
+range da 21.144.0.1 a 21.151.255.254
+magic number:8
+N:10 H:19 S:3
+
+87)FLSM di 106.89.187.111/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+88)FLSM di 37.197.33.38/19: 3 reti da 1021 host ciascuna
+indirizzo:37.197.32.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.197.35.255
+range da 37.197.32.1 a 37.197.35.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:37.197.36.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.197.39.255
+range da 37.197.36.1 a 37.197.39.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:37.197.40.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.197.43.255
+range da 37.197.40.1 a 37.197.43.254
+magic number:4
+N:19 H:10 S:3
+
+89)FLSM di 22.151.117.24/7: 3 reti da 4194301 host ciascuna
+indirizzo:22.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.63.255.255
+range da 22.0.0.1 a 22.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:22.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.127.255.255
+range da 22.64.0.1 a 22.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:22.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.191.255.255
+range da 22.128.0.1 a 22.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+90)FLSM di 107.228.195.76/23: 3 reti da 61 host ciascuna
+indirizzo:107.228.194.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:107.228.194.63
+range da 107.228.194.1 a 107.228.194.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:107.228.194.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:107.228.194.127
+range da 107.228.194.65 a 107.228.194.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:107.228.194.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:107.228.194.191
+range da 107.228.194.129 a 107.228.194.190
+magic number:64
+N:23 H:6 S:3
+
+91)FLSM di 47.252.1.93/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+92)FLSM di 31.185.194.221/16: 3 reti da 8189 host ciascuna
+indirizzo:31.185.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:31.185.31.255
+range da 31.185.0.1 a 31.185.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:31.185.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:31.185.63.255
+range da 31.185.32.1 a 31.185.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:31.185.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:31.185.95.255
+range da 31.185.64.1 a 31.185.95.254
+magic number:32
+N:16 H:13 S:3
+
+93)FLSM di 76.242.217.176/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+94)FLSM di 53.130.147.241/19: 3 reti da 1021 host ciascuna
+indirizzo:53.130.128.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:53.130.131.255
+range da 53.130.128.1 a 53.130.131.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:53.130.132.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:53.130.135.255
+range da 53.130.132.1 a 53.130.135.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:53.130.136.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:53.130.139.255
+range da 53.130.136.1 a 53.130.139.254
+magic number:4
+N:19 H:10 S:3
+
+95)FLSM di 54.46.248.138/26: 3 reti da 5 host ciascuna
+indirizzo:54.46.248.128/29
+netmask: 255.255.255.248
+indirizzo broadcast:54.46.248.135
+range da 54.46.248.129 a 54.46.248.134
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:54.46.248.136/29
+netmask: 255.255.255.248
+indirizzo broadcast:54.46.248.143
+range da 54.46.248.137 a 54.46.248.142
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:54.46.248.144/29
+netmask: 255.255.255.248
+indirizzo broadcast:54.46.248.151
+range da 54.46.248.145 a 54.46.248.150
+magic number:8
+N:26 H:3 S:3
+
+96)FLSM di 35.14.4.46/23: 3 reti da 61 host ciascuna
+indirizzo:35.14.4.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:35.14.4.63
+range da 35.14.4.1 a 35.14.4.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:35.14.4.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:35.14.4.127
+range da 35.14.4.65 a 35.14.4.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:35.14.4.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:35.14.4.191
+range da 35.14.4.129 a 35.14.4.190
+magic number:64
+N:23 H:6 S:3
+
+97)FLSM di 126.90.65.142/18: 3 reti da 2045 host ciascuna
+indirizzo:126.90.64.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:126.90.71.255
+range da 126.90.64.1 a 126.90.71.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:126.90.72.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:126.90.79.255
+range da 126.90.72.1 a 126.90.79.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:126.90.80.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:126.90.87.255
+range da 126.90.80.1 a 126.90.87.254
+magic number:8
+N:18 H:11 S:3
+
+98)FLSM di 87.219.69.230/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+99)FLSM di 90.140.175.196/23: 3 reti da 61 host ciascuna
+indirizzo:90.140.174.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:90.140.174.63
+range da 90.140.174.1 a 90.140.174.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:90.140.174.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:90.140.174.127
+range da 90.140.174.65 a 90.140.174.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:90.140.174.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:90.140.174.191
+range da 90.140.174.129 a 90.140.174.190
+magic number:64
+N:23 H:6 S:3
+
+100)FLSM di 39.44.73.128/20: 3 reti da 509 host ciascuna
+indirizzo:39.44.64.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:39.44.65.255
+range da 39.44.64.1 a 39.44.65.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:39.44.66.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:39.44.67.255
+range da 39.44.66.1 a 39.44.67.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:39.44.68.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:39.44.69.255
+range da 39.44.68.1 a 39.44.69.254
+magic number:2
+N:20 H:9 S:3
+
+101)FLSM di 15.179.59.12/16: 3 reti da 8189 host ciascuna
+indirizzo:15.179.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.179.31.255
+range da 15.179.0.1 a 15.179.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:15.179.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.179.63.255
+range da 15.179.32.1 a 15.179.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:15.179.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:15.179.95.255
+range da 15.179.64.1 a 15.179.95.254
+magic number:32
+N:16 H:13 S:3
+
+102)FLSM di 16.91.173.243/25: 3 reti da 13 host ciascuna
+indirizzo:16.91.173.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:16.91.173.143
+range da 16.91.173.129 a 16.91.173.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:16.91.173.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:16.91.173.159
+range da 16.91.173.145 a 16.91.173.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:16.91.173.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:16.91.173.175
+range da 16.91.173.161 a 16.91.173.174
+magic number:16
+N:25 H:4 S:3
+
+103)FLSM di 31.165.48.235/14: 3 reti da 32765 host ciascuna
+indirizzo:31.164.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:31.164.127.255
+range da 31.164.0.1 a 31.164.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:31.164.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:31.164.255.255
+range da 31.164.128.1 a 31.164.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:31.165.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:31.165.127.255
+range da 31.165.0.1 a 31.165.127.254
+magic number:128
+N:14 H:15 S:3
+
+104)FLSM di 78.1.85.110/25: 3 reti da 13 host ciascuna
+indirizzo:78.1.85.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:78.1.85.15
+range da 78.1.85.1 a 78.1.85.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:78.1.85.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:78.1.85.31
+range da 78.1.85.17 a 78.1.85.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:78.1.85.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:78.1.85.47
+range da 78.1.85.33 a 78.1.85.46
+magic number:16
+N:25 H:4 S:3
+
+105)FLSM di 63.195.220.30/5: 3 reti da 16777213 host ciascuna
+indirizzo:56.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:56.255.255.255
+range da 56.0.0.1 a 56.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:57.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:57.255.255.255
+range da 57.0.0.1 a 57.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:58.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:58.255.255.255
+range da 58.0.0.1 a 58.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+106)FLSM di 80.231.22.88/10: 3 reti da 524285 host ciascuna
+indirizzo:80.192.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:80.199.255.255
+range da 80.192.0.1 a 80.199.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:80.200.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:80.207.255.255
+range da 80.200.0.1 a 80.207.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:80.208.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:80.215.255.255
+range da 80.208.0.1 a 80.215.255.254
+magic number:8
+N:10 H:19 S:3
+
+107)FLSM di 79.14.252.107/4: 3 reti da 33554429 host ciascuna
+indirizzo:64.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 64.0.0.1 a 65.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:66.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 66.0.0.1 a 67.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:68.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:69.255.255.255
+range da 68.0.0.1 a 69.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+108)FLSM di 101.246.174.92/13: 3 reti da 65533 host ciascuna
+indirizzo:101.240.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:101.240.255.255
+range da 101.240.0.1 a 101.240.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:101.241.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:101.241.255.255
+range da 101.241.0.1 a 101.241.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:101.242.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:101.242.255.255
+range da 101.242.0.1 a 101.242.255.254
+magic number:1
+N:13 H:16 S:3
+
+109)FLSM di 61.55.123.98/10: 3 reti da 524285 host ciascuna
+indirizzo:61.0.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:61.7.255.255
+range da 61.0.0.1 a 61.7.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:61.8.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:61.15.255.255
+range da 61.8.0.1 a 61.15.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:61.16.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:61.23.255.255
+range da 61.16.0.1 a 61.23.255.254
+magic number:8
+N:10 H:19 S:3
+
+110)FLSM di 72.79.2.10/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+111)FLSM di 15.228.149.60/11: 3 reti da 262141 host ciascuna
+indirizzo:15.224.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:15.227.255.255
+range da 15.224.0.1 a 15.227.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:15.228.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:15.231.255.255
+range da 15.228.0.1 a 15.231.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:15.232.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:15.235.255.255
+range da 15.232.0.1 a 15.235.255.254
+magic number:4
+N:11 H:18 S:3
+
+112)FLSM di 70.73.110.244/26: 3 reti da 5 host ciascuna
+indirizzo:70.73.110.192/29
+netmask: 255.255.255.248
+indirizzo broadcast:70.73.110.199
+range da 70.73.110.193 a 70.73.110.198
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:70.73.110.200/29
+netmask: 255.255.255.248
+indirizzo broadcast:70.73.110.207
+range da 70.73.110.201 a 70.73.110.206
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:70.73.110.208/29
+netmask: 255.255.255.248
+indirizzo broadcast:70.73.110.215
+range da 70.73.110.209 a 70.73.110.214
+magic number:8
+N:26 H:3 S:3
+
+113)FLSM di 92.148.55.56/13: 3 reti da 65533 host ciascuna
+indirizzo:92.144.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:92.144.255.255
+range da 92.144.0.1 a 92.144.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:92.145.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:92.145.255.255
+range da 92.145.0.1 a 92.145.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:92.146.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:92.146.255.255
+range da 92.146.0.1 a 92.146.255.254
+magic number:1
+N:13 H:16 S:3
+
+114)FLSM di 25.23.80.152/20: 3 reti da 509 host ciascuna
+indirizzo:25.23.80.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:25.23.81.255
+range da 25.23.80.1 a 25.23.81.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:25.23.82.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:25.23.83.255
+range da 25.23.82.1 a 25.23.83.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:25.23.84.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:25.23.85.255
+range da 25.23.84.1 a 25.23.85.254
+magic number:2
+N:20 H:9 S:3
+
+115)FLSM di 80.177.235.94/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+116)FLSM di 16.165.194.172/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+117)FLSM di 26.43.176.98/6: 3 reti da 8388605 host ciascuna
+indirizzo:24.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:24.127.255.255
+range da 24.0.0.1 a 24.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:24.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:24.255.255.255
+range da 24.128.0.1 a 24.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:25.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:25.127.255.255
+range da 25.0.0.1 a 25.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+118)FLSM di 33.101.72.163/20: 3 reti da 509 host ciascuna
+indirizzo:33.101.64.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:33.101.65.255
+range da 33.101.64.1 a 33.101.65.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:33.101.66.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:33.101.67.255
+range da 33.101.66.1 a 33.101.67.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:33.101.68.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:33.101.69.255
+range da 33.101.68.1 a 33.101.69.254
+magic number:2
+N:20 H:9 S:3
+
+119)FLSM di 111.169.231.97/8: 3 reti da 2097149 host ciascuna
+indirizzo:111.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:111.31.255.255
+range da 111.0.0.1 a 111.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:111.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:111.63.255.255
+range da 111.32.0.1 a 111.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:111.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:111.95.255.255
+range da 111.64.0.1 a 111.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+120)FLSM di 110.189.226.45/19: 3 reti da 1021 host ciascuna
+indirizzo:110.189.224.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.189.227.255
+range da 110.189.224.1 a 110.189.227.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:110.189.228.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.189.231.255
+range da 110.189.228.1 a 110.189.231.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:110.189.232.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:110.189.235.255
+range da 110.189.232.1 a 110.189.235.254
+magic number:4
+N:19 H:10 S:3
+
+121)FLSM di 109.223.218.143/27: 3 reti da 1 host ciascuna
+indirizzo:109.223.218.128/30
+netmask: 255.255.255.252
+indirizzo broadcast:109.223.218.131
+range da 109.223.218.129 a 109.223.218.130
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:109.223.218.132/30
+netmask: 255.255.255.252
+indirizzo broadcast:109.223.218.135
+range da 109.223.218.133 a 109.223.218.134
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:109.223.218.136/30
+netmask: 255.255.255.252
+indirizzo broadcast:109.223.218.139
+range da 109.223.218.137 a 109.223.218.138
+magic number:4
+N:27 H:2 S:3
+
+122)FLSM di 70.250.168.3/11: 3 reti da 262141 host ciascuna
+indirizzo:70.224.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:70.227.255.255
+range da 70.224.0.1 a 70.227.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:70.228.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:70.231.255.255
+range da 70.228.0.1 a 70.231.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:70.232.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:70.235.255.255
+range da 70.232.0.1 a 70.235.255.254
+magic number:4
+N:11 H:18 S:3
+
+123)FLSM di 67.10.211.141/19: 3 reti da 1021 host ciascuna
+indirizzo:67.10.192.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:67.10.195.255
+range da 67.10.192.1 a 67.10.195.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:67.10.196.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:67.10.199.255
+range da 67.10.196.1 a 67.10.199.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:67.10.200.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:67.10.203.255
+range da 67.10.200.1 a 67.10.203.254
+magic number:4
+N:19 H:10 S:3
+
+124)FLSM di 92.219.59.117/10: 3 reti da 524285 host ciascuna
+indirizzo:92.192.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:92.199.255.255
+range da 92.192.0.1 a 92.199.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:92.200.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:92.207.255.255
+range da 92.200.0.1 a 92.207.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:92.208.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:92.215.255.255
+range da 92.208.0.1 a 92.215.255.254
+magic number:8
+N:10 H:19 S:3
+
+125)FLSM di 63.195.224.85/15: 3 reti da 16381 host ciascuna
+indirizzo:63.194.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:63.194.63.255
+range da 63.194.0.1 a 63.194.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:63.194.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:63.194.127.255
+range da 63.194.64.1 a 63.194.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:63.194.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:63.194.191.255
+range da 63.194.128.1 a 63.194.191.254
+magic number:64
+N:15 H:14 S:3
+
+126)FLSM di 43.132.29.137/22: 3 reti da 125 host ciascuna
+indirizzo:43.132.28.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:43.132.28.127
+range da 43.132.28.1 a 43.132.28.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:43.132.28.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:43.132.28.255
+range da 43.132.28.129 a 43.132.28.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:43.132.29.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:43.132.29.127
+range da 43.132.29.1 a 43.132.29.126
+magic number:128
+N:22 H:7 S:3
+
+127)FLSM di 87.49.21.177/19: 3 reti da 1021 host ciascuna
+indirizzo:87.49.0.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:87.49.3.255
+range da 87.49.0.1 a 87.49.3.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:87.49.4.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:87.49.7.255
+range da 87.49.4.1 a 87.49.7.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:87.49.8.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:87.49.11.255
+range da 87.49.8.1 a 87.49.11.254
+magic number:4
+N:19 H:10 S:3
+
+128)FLSM di 11.216.213.121/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+129)FLSM di 61.152.90.41/27: 3 reti da 1 host ciascuna
+indirizzo:61.152.90.32/30
+netmask: 255.255.255.252
+indirizzo broadcast:61.152.90.35
+range da 61.152.90.33 a 61.152.90.34
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:61.152.90.36/30
+netmask: 255.255.255.252
+indirizzo broadcast:61.152.90.39
+range da 61.152.90.37 a 61.152.90.38
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:61.152.90.40/30
+netmask: 255.255.255.252
+indirizzo broadcast:61.152.90.43
+range da 61.152.90.41 a 61.152.90.42
+magic number:4
+N:27 H:2 S:3
+
+130)FLSM di 93.36.181.251/8: 3 reti da 2097149 host ciascuna
+indirizzo:93.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.31.255.255
+range da 93.0.0.1 a 93.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:93.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.63.255.255
+range da 93.32.0.1 a 93.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:93.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.95.255.255
+range da 93.64.0.1 a 93.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+131)FLSM di 63.175.246.251/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+132)FLSM di 64.38.199.141/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+133)FLSM di 13.95.155.21/27: 3 reti da 1 host ciascuna
+indirizzo:13.95.155.0/30
+netmask: 255.255.255.252
+indirizzo broadcast:13.95.155.3
+range da 13.95.155.1 a 13.95.155.2
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:13.95.155.4/30
+netmask: 255.255.255.252
+indirizzo broadcast:13.95.155.7
+range da 13.95.155.5 a 13.95.155.6
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:13.95.155.8/30
+netmask: 255.255.255.252
+indirizzo broadcast:13.95.155.11
+range da 13.95.155.9 a 13.95.155.10
+magic number:4
+N:27 H:2 S:3
+
+134)FLSM di 108.58.183.192/8: 3 reti da 2097149 host ciascuna
+indirizzo:108.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:108.31.255.255
+range da 108.0.0.1 a 108.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:108.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:108.63.255.255
+range da 108.32.0.1 a 108.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:108.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:108.95.255.255
+range da 108.64.0.1 a 108.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+135)FLSM di 1.221.43.7/4: 3 reti da 33554429 host ciascuna
+indirizzo:0.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:1.255.255.255
+range da 0.0.0.1 a 1.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:2.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:3.255.255.255
+range da 2.0.0.1 a 3.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:4.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:5.255.255.255
+range da 4.0.0.1 a 5.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+136)FLSM di 88.140.102.125/23: 3 reti da 61 host ciascuna
+indirizzo:88.140.102.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:88.140.102.63
+range da 88.140.102.1 a 88.140.102.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:88.140.102.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:88.140.102.127
+range da 88.140.102.65 a 88.140.102.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:88.140.102.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:88.140.102.191
+range da 88.140.102.129 a 88.140.102.190
+magic number:64
+N:23 H:6 S:3
+
+137)FLSM di 58.159.96.230/14: 3 reti da 32765 host ciascuna
+indirizzo:58.156.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:58.156.127.255
+range da 58.156.0.1 a 58.156.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:58.156.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:58.156.255.255
+range da 58.156.128.1 a 58.156.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:58.157.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:58.157.127.255
+range da 58.157.0.1 a 58.157.127.254
+magic number:128
+N:14 H:15 S:3
+
+138)FLSM di 75.120.55.45/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+139)FLSM di 30.93.150.28/9: 3 reti da 1048573 host ciascuna
+indirizzo:30.0.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:30.15.255.255
+range da 30.0.0.1 a 30.15.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:30.16.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:30.31.255.255
+range da 30.16.0.1 a 30.31.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:30.32.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:30.47.255.255
+range da 30.32.0.1 a 30.47.255.254
+magic number:16
+N:9 H:20 S:3
+
+140)FLSM di 110.59.211.48/7: 3 reti da 4194301 host ciascuna
+indirizzo:110.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:110.63.255.255
+range da 110.0.0.1 a 110.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:110.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:110.127.255.255
+range da 110.64.0.1 a 110.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:110.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:110.191.255.255
+range da 110.128.0.1 a 110.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+141)FLSM di 84.130.58.13/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+142)FLSM di 56.150.137.101/18: 3 reti da 2045 host ciascuna
+indirizzo:56.150.128.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:56.150.135.255
+range da 56.150.128.1 a 56.150.135.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:56.150.136.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:56.150.143.255
+range da 56.150.136.1 a 56.150.143.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:56.150.144.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:56.150.151.255
+range da 56.150.144.1 a 56.150.151.254
+magic number:8
+N:18 H:11 S:3
+
+143)FLSM di 86.159.105.128/9: 3 reti da 1048573 host ciascuna
+indirizzo:86.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:86.143.255.255
+range da 86.128.0.1 a 86.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:86.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:86.159.255.255
+range da 86.144.0.1 a 86.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:86.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:86.175.255.255
+range da 86.160.0.1 a 86.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+144)FLSM di 29.143.252.38/22: 3 reti da 125 host ciascuna
+indirizzo:29.143.252.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:29.143.252.127
+range da 29.143.252.1 a 29.143.252.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:29.143.252.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:29.143.252.255
+range da 29.143.252.129 a 29.143.252.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:29.143.253.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:29.143.253.127
+range da 29.143.253.1 a 29.143.253.126
+magic number:128
+N:22 H:7 S:3
+
+145)FLSM di 77.112.187.87/19: 3 reti da 1021 host ciascuna
+indirizzo:77.112.160.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:77.112.163.255
+range da 77.112.160.1 a 77.112.163.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:77.112.164.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:77.112.167.255
+range da 77.112.164.1 a 77.112.167.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:77.112.168.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:77.112.171.255
+range da 77.112.168.1 a 77.112.171.254
+magic number:4
+N:19 H:10 S:3
+
+146)FLSM di 115.53.102.118/13: 3 reti da 65533 host ciascuna
+indirizzo:115.48.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:115.48.255.255
+range da 115.48.0.1 a 115.48.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:115.49.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:115.49.255.255
+range da 115.49.0.1 a 115.49.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:115.50.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:115.50.255.255
+range da 115.50.0.1 a 115.50.255.254
+magic number:1
+N:13 H:16 S:3
+
+147)FLSM di 71.131.79.125/9: 3 reti da 1048573 host ciascuna
+indirizzo:71.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:71.143.255.255
+range da 71.128.0.1 a 71.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:71.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:71.159.255.255
+range da 71.144.0.1 a 71.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:71.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:71.175.255.255
+range da 71.160.0.1 a 71.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+148)FLSM di 59.142.139.123/3: 3 reti da 67108861 host ciascuna
+indirizzo:32.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:35.255.255.255
+range da 32.0.0.1 a 35.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:36.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:39.255.255.255
+range da 36.0.0.1 a 39.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:40.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:43.255.255.255
+range da 40.0.0.1 a 43.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+149)FLSM di 97.98.208.32/11: 3 reti da 262141 host ciascuna
+indirizzo:97.96.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:97.99.255.255
+range da 97.96.0.1 a 97.99.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:97.100.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:97.103.255.255
+range da 97.100.0.1 a 97.103.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:97.104.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:97.107.255.255
+range da 97.104.0.1 a 97.107.255.254
+magic number:4
+N:11 H:18 S:3
+
+150)FLSM di 41.61.45.171/8: 3 reti da 2097149 host ciascuna
+indirizzo:41.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:41.31.255.255
+range da 41.0.0.1 a 41.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:41.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:41.63.255.255
+range da 41.32.0.1 a 41.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:41.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:41.95.255.255
+range da 41.64.0.1 a 41.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+151)FLSM di 87.14.206.138/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+152)FLSM di 65.248.97.164/24: 3 reti da 29 host ciascuna
+indirizzo:65.248.97.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:65.248.97.31
+range da 65.248.97.1 a 65.248.97.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:65.248.97.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:65.248.97.63
+range da 65.248.97.33 a 65.248.97.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:65.248.97.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:65.248.97.95
+range da 65.248.97.65 a 65.248.97.94
+magic number:32
+N:24 H:5 S:3
+
+153)FLSM di 119.209.173.223/17: 3 reti da 4093 host ciascuna
+indirizzo:119.209.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:119.209.143.255
+range da 119.209.128.1 a 119.209.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:119.209.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:119.209.159.255
+range da 119.209.144.1 a 119.209.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:119.209.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:119.209.175.255
+range da 119.209.160.1 a 119.209.175.254
+magic number:16
+N:17 H:12 S:3
+
+154)FLSM di 48.25.229.177/9: 3 reti da 1048573 host ciascuna
+indirizzo:48.0.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:48.15.255.255
+range da 48.0.0.1 a 48.15.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:48.16.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:48.31.255.255
+range da 48.16.0.1 a 48.31.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:48.32.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:48.47.255.255
+range da 48.32.0.1 a 48.47.255.254
+magic number:16
+N:9 H:20 S:3
+
+155)FLSM di 23.101.216.141/9: 3 reti da 1048573 host ciascuna
+indirizzo:23.0.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:23.15.255.255
+range da 23.0.0.1 a 23.15.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:23.16.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:23.31.255.255
+range da 23.16.0.1 a 23.31.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:23.32.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:23.47.255.255
+range da 23.32.0.1 a 23.47.255.254
+magic number:16
+N:9 H:20 S:3
+
+156)FLSM di 117.82.89.129/3: 3 reti da 67108861 host ciascuna
+indirizzo:96.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:99.255.255.255
+range da 96.0.0.1 a 99.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:100.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:103.255.255.255
+range da 100.0.0.1 a 103.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:104.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:107.255.255.255
+range da 104.0.0.1 a 107.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+157)FLSM di 69.234.44.31/8: 3 reti da 2097149 host ciascuna
+indirizzo:69.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:69.31.255.255
+range da 69.0.0.1 a 69.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:69.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:69.63.255.255
+range da 69.32.0.1 a 69.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:69.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:69.95.255.255
+range da 69.64.0.1 a 69.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+158)FLSM di 74.249.86.226/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+159)FLSM di 13.151.7.201/20: 3 reti da 509 host ciascuna
+indirizzo:13.151.0.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:13.151.1.255
+range da 13.151.0.1 a 13.151.1.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:13.151.2.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:13.151.3.255
+range da 13.151.2.1 a 13.151.3.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:13.151.4.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:13.151.5.255
+range da 13.151.4.1 a 13.151.5.254
+magic number:2
+N:20 H:9 S:3
+
+160)FLSM di 32.123.153.201/10: 3 reti da 524285 host ciascuna
+indirizzo:32.64.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:32.71.255.255
+range da 32.64.0.1 a 32.71.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:32.72.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:32.79.255.255
+range da 32.72.0.1 a 32.79.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:32.80.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:32.87.255.255
+range da 32.80.0.1 a 32.87.255.254
+magic number:8
+N:10 H:19 S:3
+
+161)FLSM di 3.211.104.129/17: 3 reti da 4093 host ciascuna
+indirizzo:3.211.0.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:3.211.15.255
+range da 3.211.0.1 a 3.211.15.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:3.211.16.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:3.211.31.255
+range da 3.211.16.1 a 3.211.31.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:3.211.32.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:3.211.47.255
+range da 3.211.32.1 a 3.211.47.254
+magic number:16
+N:17 H:12 S:3
+
+162)FLSM di 54.45.182.165/19: 3 reti da 1021 host ciascuna
+indirizzo:54.45.160.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:54.45.163.255
+range da 54.45.160.1 a 54.45.163.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:54.45.164.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:54.45.167.255
+range da 54.45.164.1 a 54.45.167.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:54.45.168.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:54.45.171.255
+range da 54.45.168.1 a 54.45.171.254
+magic number:4
+N:19 H:10 S:3
+
+163)FLSM di 5.150.177.28/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+164)FLSM di 39.149.79.195/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+165)FLSM di 74.111.149.105/4: 3 reti da 33554429 host ciascuna
+indirizzo:64.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 64.0.0.1 a 65.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:66.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 66.0.0.1 a 67.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:68.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:69.255.255.255
+range da 68.0.0.1 a 69.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+166)FLSM di 58.76.182.139/13: 3 reti da 65533 host ciascuna
+indirizzo:58.72.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:58.72.255.255
+range da 58.72.0.1 a 58.72.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:58.73.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:58.73.255.255
+range da 58.73.0.1 a 58.73.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:58.74.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:58.74.255.255
+range da 58.74.0.1 a 58.74.255.254
+magic number:1
+N:13 H:16 S:3
+
+167)FLSM di 14.247.138.66/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+168)FLSM di 66.129.101.180/6: 3 reti da 8388605 host ciascuna
+indirizzo:64.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:64.127.255.255
+range da 64.0.0.1 a 64.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:64.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:64.255.255.255
+range da 64.128.0.1 a 64.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:65.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:65.127.255.255
+range da 65.0.0.1 a 65.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+169)FLSM di 104.60.157.215/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+170)FLSM di 106.123.102.149/13: 3 reti da 65533 host ciascuna
+indirizzo:106.120.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:106.120.255.255
+range da 106.120.0.1 a 106.120.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:106.121.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:106.121.255.255
+range da 106.121.0.1 a 106.121.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:106.122.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:106.122.255.255
+range da 106.122.0.1 a 106.122.255.254
+magic number:1
+N:13 H:16 S:3
+
+171)FLSM di 37.50.196.197/19: 3 reti da 1021 host ciascuna
+indirizzo:37.50.192.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.50.195.255
+range da 37.50.192.1 a 37.50.195.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:37.50.196.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.50.199.255
+range da 37.50.196.1 a 37.50.199.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:37.50.200.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:37.50.203.255
+range da 37.50.200.1 a 37.50.203.254
+magic number:4
+N:19 H:10 S:3
+
+172)FLSM di 100.194.92.230/18: 3 reti da 2045 host ciascuna
+indirizzo:100.194.64.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:100.194.71.255
+range da 100.194.64.1 a 100.194.71.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:100.194.72.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:100.194.79.255
+range da 100.194.72.1 a 100.194.79.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:100.194.80.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:100.194.87.255
+range da 100.194.80.1 a 100.194.87.254
+magic number:8
+N:18 H:11 S:3
+
+173)FLSM di 46.244.13.111/15: 3 reti da 16381 host ciascuna
+indirizzo:46.244.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:46.244.63.255
+range da 46.244.0.1 a 46.244.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:46.244.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:46.244.127.255
+range da 46.244.64.1 a 46.244.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:46.244.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:46.244.191.255
+range da 46.244.128.1 a 46.244.191.254
+magic number:64
+N:15 H:14 S:3
+
+174)FLSM di 34.106.118.36/17: 3 reti da 4093 host ciascuna
+indirizzo:34.106.0.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:34.106.15.255
+range da 34.106.0.1 a 34.106.15.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:34.106.16.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:34.106.31.255
+range da 34.106.16.1 a 34.106.31.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:34.106.32.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:34.106.47.255
+range da 34.106.32.1 a 34.106.47.254
+magic number:16
+N:17 H:12 S:3
+
+175)FLSM di 67.119.252.114/18: 3 reti da 2045 host ciascuna
+indirizzo:67.119.192.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:67.119.199.255
+range da 67.119.192.1 a 67.119.199.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:67.119.200.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:67.119.207.255
+range da 67.119.200.1 a 67.119.207.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:67.119.208.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:67.119.215.255
+range da 67.119.208.1 a 67.119.215.254
+magic number:8
+N:18 H:11 S:3
+
+176)FLSM di 93.71.220.95/8: 3 reti da 2097149 host ciascuna
+indirizzo:93.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.31.255.255
+range da 93.0.0.1 a 93.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:93.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.63.255.255
+range da 93.32.0.1 a 93.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:93.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:93.95.255.255
+range da 93.64.0.1 a 93.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+177)FLSM di 102.140.88.125/9: 3 reti da 1048573 host ciascuna
+indirizzo:102.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:102.143.255.255
+range da 102.128.0.1 a 102.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:102.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:102.159.255.255
+range da 102.144.0.1 a 102.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:102.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:102.175.255.255
+range da 102.160.0.1 a 102.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+178)FLSM di 20.106.119.71/25: 3 reti da 13 host ciascuna
+indirizzo:20.106.119.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:20.106.119.15
+range da 20.106.119.1 a 20.106.119.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:20.106.119.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:20.106.119.31
+range da 20.106.119.17 a 20.106.119.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:20.106.119.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:20.106.119.47
+range da 20.106.119.33 a 20.106.119.46
+magic number:16
+N:25 H:4 S:3
+
+179)FLSM di 24.143.36.72/12: 3 reti da 131069 host ciascuna
+indirizzo:24.128.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:24.129.255.255
+range da 24.128.0.1 a 24.129.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:24.130.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:24.131.255.255
+range da 24.130.0.1 a 24.131.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:24.132.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:24.133.255.255
+range da 24.132.0.1 a 24.133.255.254
+magic number:2
+N:12 H:17 S:3
+
+180)FLSM di 77.28.208.144/17: 3 reti da 4093 host ciascuna
+indirizzo:77.28.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:77.28.143.255
+range da 77.28.128.1 a 77.28.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:77.28.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:77.28.159.255
+range da 77.28.144.1 a 77.28.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:77.28.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:77.28.175.255
+range da 77.28.160.1 a 77.28.175.254
+magic number:16
+N:17 H:12 S:3
+
+181)FLSM di 9.107.203.209/25: 3 reti da 13 host ciascuna
+indirizzo:9.107.203.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:9.107.203.143
+range da 9.107.203.129 a 9.107.203.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:9.107.203.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:9.107.203.159
+range da 9.107.203.145 a 9.107.203.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:9.107.203.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:9.107.203.175
+range da 9.107.203.161 a 9.107.203.174
+magic number:16
+N:25 H:4 S:3
+
+182)FLSM di 2.122.234.223/5: 3 reti da 16777213 host ciascuna
+indirizzo:0.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:0.255.255.255
+range da 0.0.0.1 a 0.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:1.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:1.255.255.255
+range da 1.0.0.1 a 1.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:2.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:2.255.255.255
+range da 2.0.0.1 a 2.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+183)FLSM di 48.246.17.51/25: 3 reti da 13 host ciascuna
+indirizzo:48.246.17.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:48.246.17.15
+range da 48.246.17.1 a 48.246.17.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:48.246.17.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:48.246.17.31
+range da 48.246.17.17 a 48.246.17.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:48.246.17.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:48.246.17.47
+range da 48.246.17.33 a 48.246.17.46
+magic number:16
+N:25 H:4 S:3
+
+184)FLSM di 23.11.199.102/21: 3 reti da 253 host ciascuna
+indirizzo:23.11.192.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:23.11.192.255
+range da 23.11.192.1 a 23.11.192.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:23.11.193.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:23.11.193.255
+range da 23.11.193.1 a 23.11.193.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:23.11.194.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:23.11.194.255
+range da 23.11.194.1 a 23.11.194.254
+magic number:1
+N:21 H:8 S:3
+
+185)FLSM di 33.234.230.172/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+186)FLSM di 93.141.127.237/9: 3 reti da 1048573 host ciascuna
+indirizzo:93.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:93.143.255.255
+range da 93.128.0.1 a 93.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:93.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:93.159.255.255
+range da 93.144.0.1 a 93.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:93.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:93.175.255.255
+range da 93.160.0.1 a 93.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+187)FLSM di 111.67.8.249/16: 3 reti da 8189 host ciascuna
+indirizzo:111.67.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:111.67.31.255
+range da 111.67.0.1 a 111.67.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:111.67.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:111.67.63.255
+range da 111.67.32.1 a 111.67.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:111.67.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:111.67.95.255
+range da 111.67.64.1 a 111.67.95.254
+magic number:32
+N:16 H:13 S:3
+
+188)FLSM di 113.163.81.114/20: 3 reti da 509 host ciascuna
+indirizzo:113.163.80.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:113.163.81.255
+range da 113.163.80.1 a 113.163.81.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:113.163.82.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:113.163.83.255
+range da 113.163.82.1 a 113.163.83.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:113.163.84.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:113.163.85.255
+range da 113.163.84.1 a 113.163.85.254
+magic number:2
+N:20 H:9 S:3
+
+189)FLSM di 35.80.121.109/25: 3 reti da 13 host ciascuna
+indirizzo:35.80.121.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:35.80.121.15
+range da 35.80.121.1 a 35.80.121.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:35.80.121.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:35.80.121.31
+range da 35.80.121.17 a 35.80.121.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:35.80.121.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:35.80.121.47
+range da 35.80.121.33 a 35.80.121.46
+magic number:16
+N:25 H:4 S:3
+
+190)FLSM di 98.195.104.88/12: 3 reti da 131069 host ciascuna
+indirizzo:98.192.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:98.193.255.255
+range da 98.192.0.1 a 98.193.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:98.194.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:98.195.255.255
+range da 98.194.0.1 a 98.195.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:98.196.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:98.197.255.255
+range da 98.196.0.1 a 98.197.255.254
+magic number:2
+N:12 H:17 S:3
+
+191)FLSM di 49.201.187.76/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+192)FLSM di 23.254.122.43/7: 3 reti da 4194301 host ciascuna
+indirizzo:22.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.63.255.255
+range da 22.0.0.1 a 22.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:22.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.127.255.255
+range da 22.64.0.1 a 22.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:22.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:22.191.255.255
+range da 22.128.0.1 a 22.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+193)FLSM di 86.7.236.79/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+194)FLSM di 65.47.165.142/5: 3 reti da 16777213 host ciascuna
+indirizzo:64.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:64.255.255.255
+range da 64.0.0.1 a 64.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:65.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 65.0.0.1 a 65.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:66.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:66.255.255.255
+range da 66.0.0.1 a 66.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+195)FLSM di 74.50.214.74/15: 3 reti da 16381 host ciascuna
+indirizzo:74.50.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:74.50.63.255
+range da 74.50.0.1 a 74.50.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:74.50.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:74.50.127.255
+range da 74.50.64.1 a 74.50.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:74.50.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:74.50.191.255
+range da 74.50.128.1 a 74.50.191.254
+magic number:64
+N:15 H:14 S:3
+
+196)FLSM di 100.171.245.218/10: 3 reti da 524285 host ciascuna
+indirizzo:100.128.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:100.135.255.255
+range da 100.128.0.1 a 100.135.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:100.136.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:100.143.255.255
+range da 100.136.0.1 a 100.143.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:100.144.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:100.151.255.255
+range da 100.144.0.1 a 100.151.255.254
+magic number:8
+N:10 H:19 S:3
+
+197)FLSM di 11.88.101.205/21: 3 reti da 253 host ciascuna
+indirizzo:11.88.96.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:11.88.96.255
+range da 11.88.96.1 a 11.88.96.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:11.88.97.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:11.88.97.255
+range da 11.88.97.1 a 11.88.97.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:11.88.98.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:11.88.98.255
+range da 11.88.98.1 a 11.88.98.254
+magic number:1
+N:21 H:8 S:3
+
+198)FLSM di 98.197.203.172/3: 3 reti da 67108861 host ciascuna
+indirizzo:96.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:99.255.255.255
+range da 96.0.0.1 a 99.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:100.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:103.255.255.255
+range da 100.0.0.1 a 103.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:104.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:107.255.255.255
+range da 104.0.0.1 a 107.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+199)FLSM di 52.8.54.195/23: 3 reti da 61 host ciascuna
+indirizzo:52.8.54.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:52.8.54.63
+range da 52.8.54.1 a 52.8.54.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:52.8.54.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:52.8.54.127
+range da 52.8.54.65 a 52.8.54.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:52.8.54.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:52.8.54.191
+range da 52.8.54.129 a 52.8.54.190
+magic number:64
+N:23 H:6 S:3
+
+200)FLSM di 51.240.144.11/3: 3 reti da 67108861 host ciascuna
+indirizzo:32.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:35.255.255.255
+range da 32.0.0.1 a 35.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:36.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:39.255.255.255
+range da 36.0.0.1 a 39.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:40.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:43.255.255.255
+range da 40.0.0.1 a 43.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+201)FLSM di 85.238.158.111/16: 3 reti da 8189 host ciascuna
+indirizzo:85.238.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:85.238.31.255
+range da 85.238.0.1 a 85.238.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:85.238.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:85.238.63.255
+range da 85.238.32.1 a 85.238.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:85.238.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:85.238.95.255
+range da 85.238.64.1 a 85.238.95.254
+magic number:32
+N:16 H:13 S:3
+
+202)FLSM di 13.99.88.58/12: 3 reti da 131069 host ciascuna
+indirizzo:13.96.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:13.97.255.255
+range da 13.96.0.1 a 13.97.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:13.98.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:13.99.255.255
+range da 13.98.0.1 a 13.99.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:13.100.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:13.101.255.255
+range da 13.100.0.1 a 13.101.255.254
+magic number:2
+N:12 H:17 S:3
+
+203)FLSM di 22.143.11.44/21: 3 reti da 253 host ciascuna
+indirizzo:22.143.8.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:22.143.8.255
+range da 22.143.8.1 a 22.143.8.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:22.143.9.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:22.143.9.255
+range da 22.143.9.1 a 22.143.9.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:22.143.10.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:22.143.10.255
+range da 22.143.10.1 a 22.143.10.254
+magic number:1
+N:21 H:8 S:3
+
+204)FLSM di 47.223.230.102/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+205)FLSM di 9.133.243.26/17: 3 reti da 4093 host ciascuna
+indirizzo:9.133.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:9.133.143.255
+range da 9.133.128.1 a 9.133.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:9.133.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:9.133.159.255
+range da 9.133.144.1 a 9.133.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:9.133.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:9.133.175.255
+range da 9.133.160.1 a 9.133.175.254
+magic number:16
+N:17 H:12 S:3
+
+206)FLSM di 19.168.208.20/14: 3 reti da 32765 host ciascuna
+indirizzo:19.168.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:19.168.127.255
+range da 19.168.0.1 a 19.168.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:19.168.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:19.168.255.255
+range da 19.168.128.1 a 19.168.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:19.169.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:19.169.127.255
+range da 19.169.0.1 a 19.169.127.254
+magic number:128
+N:14 H:15 S:3
+
+207)FLSM di 101.91.138.213/23: 3 reti da 61 host ciascuna
+indirizzo:101.91.138.0/26
+netmask: 255.255.255.192
+indirizzo broadcast:101.91.138.63
+range da 101.91.138.1 a 101.91.138.62
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:101.91.138.64/26
+netmask: 255.255.255.192
+indirizzo broadcast:101.91.138.127
+range da 101.91.138.65 a 101.91.138.126
+magic number:64
+N:23 H:6 S:3
+
+indirizzo:101.91.138.128/26
+netmask: 255.255.255.192
+indirizzo broadcast:101.91.138.191
+range da 101.91.138.129 a 101.91.138.190
+magic number:64
+N:23 H:6 S:3
+
+208)FLSM di 70.106.82.199/15: 3 reti da 16381 host ciascuna
+indirizzo:70.106.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:70.106.63.255
+range da 70.106.0.1 a 70.106.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:70.106.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:70.106.127.255
+range da 70.106.64.1 a 70.106.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:70.106.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:70.106.191.255
+range da 70.106.128.1 a 70.106.191.254
+magic number:64
+N:15 H:14 S:3
+
+209)FLSM di 70.254.44.100/14: 3 reti da 32765 host ciascuna
+indirizzo:70.252.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:70.252.127.255
+range da 70.252.0.1 a 70.252.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:70.252.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:70.252.255.255
+range da 70.252.128.1 a 70.252.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:70.253.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:70.253.127.255
+range da 70.253.0.1 a 70.253.127.254
+magic number:128
+N:14 H:15 S:3
+
+210)FLSM di 16.204.254.208/5: 3 reti da 16777213 host ciascuna
+indirizzo:16.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:16.255.255.255
+range da 16.0.0.1 a 16.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:17.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:17.255.255.255
+range da 17.0.0.1 a 17.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:18.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:18.255.255.255
+range da 18.0.0.1 a 18.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+211)FLSM di 127.153.222.170/20: 3 reti da 509 host ciascuna
+indirizzo:127.153.208.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:127.153.209.255
+range da 127.153.208.1 a 127.153.209.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:127.153.210.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:127.153.211.255
+range da 127.153.210.1 a 127.153.211.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:127.153.212.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:127.153.213.255
+range da 127.153.212.1 a 127.153.213.254
+magic number:2
+N:20 H:9 S:3
+
+212)FLSM di 51.230.22.23/15: 3 reti da 16381 host ciascuna
+indirizzo:51.230.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:51.230.63.255
+range da 51.230.0.1 a 51.230.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:51.230.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:51.230.127.255
+range da 51.230.64.1 a 51.230.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:51.230.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:51.230.191.255
+range da 51.230.128.1 a 51.230.191.254
+magic number:64
+N:15 H:14 S:3
+
+213)FLSM di 22.94.243.139/5: 3 reti da 16777213 host ciascuna
+indirizzo:16.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:16.255.255.255
+range da 16.0.0.1 a 16.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:17.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:17.255.255.255
+range da 17.0.0.1 a 17.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:18.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:18.255.255.255
+range da 18.0.0.1 a 18.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+214)FLSM di 86.190.7.185/7: 3 reti da 4194301 host ciascuna
+indirizzo:86.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:86.63.255.255
+range da 86.0.0.1 a 86.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:86.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:86.127.255.255
+range da 86.64.0.1 a 86.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:86.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:86.191.255.255
+range da 86.128.0.1 a 86.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+215)FLSM di 12.114.236.161/25: 3 reti da 13 host ciascuna
+indirizzo:12.114.236.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:12.114.236.143
+range da 12.114.236.129 a 12.114.236.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:12.114.236.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:12.114.236.159
+range da 12.114.236.145 a 12.114.236.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:12.114.236.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:12.114.236.175
+range da 12.114.236.161 a 12.114.236.174
+magic number:16
+N:25 H:4 S:3
+
+216)FLSM di 101.94.172.239/16: 3 reti da 8189 host ciascuna
+indirizzo:101.94.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.94.31.255
+range da 101.94.0.1 a 101.94.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:101.94.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.94.63.255
+range da 101.94.32.1 a 101.94.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:101.94.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:101.94.95.255
+range da 101.94.64.1 a 101.94.95.254
+magic number:32
+N:16 H:13 S:3
+
+217)FLSM di 11.195.133.55/17: 3 reti da 4093 host ciascuna
+indirizzo:11.195.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:11.195.143.255
+range da 11.195.128.1 a 11.195.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:11.195.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:11.195.159.255
+range da 11.195.144.1 a 11.195.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:11.195.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:11.195.175.255
+range da 11.195.160.1 a 11.195.175.254
+magic number:16
+N:17 H:12 S:3
+
+218)FLSM di 81.143.125.37/5: 3 reti da 16777213 host ciascuna
+indirizzo:80.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:80.255.255.255
+range da 80.0.0.1 a 80.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:81.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:81.255.255.255
+range da 81.0.0.1 a 81.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:82.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:82.255.255.255
+range da 82.0.0.1 a 82.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+219)FLSM di 27.38.102.10/15: 3 reti da 16381 host ciascuna
+indirizzo:27.38.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:27.38.63.255
+range da 27.38.0.1 a 27.38.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:27.38.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:27.38.127.255
+range da 27.38.64.1 a 27.38.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:27.38.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:27.38.191.255
+range da 27.38.128.1 a 27.38.191.254
+magic number:64
+N:15 H:14 S:3
+
+220)FLSM di 60.4.37.210/15: 3 reti da 16381 host ciascuna
+indirizzo:60.4.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:60.4.63.255
+range da 60.4.0.1 a 60.4.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:60.4.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:60.4.127.255
+range da 60.4.64.1 a 60.4.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:60.4.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:60.4.191.255
+range da 60.4.128.1 a 60.4.191.254
+magic number:64
+N:15 H:14 S:3
+
+221)FLSM di 58.16.194.220/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+222)FLSM di 48.16.81.255/6: 3 reti da 8388605 host ciascuna
+indirizzo:48.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:48.127.255.255
+range da 48.0.0.1 a 48.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:48.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:48.255.255.255
+range da 48.128.0.1 a 48.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:49.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:49.127.255.255
+range da 49.0.0.1 a 49.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+223)FLSM di 45.132.193.59/20: 3 reti da 509 host ciascuna
+indirizzo:45.132.192.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.132.193.255
+range da 45.132.192.1 a 45.132.193.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:45.132.194.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.132.195.255
+range da 45.132.194.1 a 45.132.195.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:45.132.196.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.132.197.255
+range da 45.132.196.1 a 45.132.197.254
+magic number:2
+N:20 H:9 S:3
+
+224)FLSM di 83.101.129.114/16: 3 reti da 8189 host ciascuna
+indirizzo:83.101.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:83.101.31.255
+range da 83.101.0.1 a 83.101.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:83.101.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:83.101.63.255
+range da 83.101.32.1 a 83.101.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:83.101.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:83.101.95.255
+range da 83.101.64.1 a 83.101.95.254
+magic number:32
+N:16 H:13 S:3
+
+225)FLSM di 52.112.27.76/15: 3 reti da 16381 host ciascuna
+indirizzo:52.112.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:52.112.63.255
+range da 52.112.0.1 a 52.112.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:52.112.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:52.112.127.255
+range da 52.112.64.1 a 52.112.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:52.112.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:52.112.191.255
+range da 52.112.128.1 a 52.112.191.254
+magic number:64
+N:15 H:14 S:3
+
+226)FLSM di 43.58.241.28/3: 3 reti da 67108861 host ciascuna
+indirizzo:32.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:35.255.255.255
+range da 32.0.0.1 a 35.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:36.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:39.255.255.255
+range da 36.0.0.1 a 39.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:40.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:43.255.255.255
+range da 40.0.0.1 a 43.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+227)FLSM di 6.137.206.210/21: 3 reti da 253 host ciascuna
+indirizzo:6.137.200.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:6.137.200.255
+range da 6.137.200.1 a 6.137.200.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:6.137.201.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:6.137.201.255
+range da 6.137.201.1 a 6.137.201.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:6.137.202.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:6.137.202.255
+range da 6.137.202.1 a 6.137.202.254
+magic number:1
+N:21 H:8 S:3
+
+228)FLSM di 105.17.32.113/10: 3 reti da 524285 host ciascuna
+indirizzo:105.0.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:105.7.255.255
+range da 105.0.0.1 a 105.7.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:105.8.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:105.15.255.255
+range da 105.8.0.1 a 105.15.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:105.16.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:105.23.255.255
+range da 105.16.0.1 a 105.23.255.254
+magic number:8
+N:10 H:19 S:3
+
+229)FLSM di 65.90.152.7/8: 3 reti da 2097149 host ciascuna
+indirizzo:65.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:65.31.255.255
+range da 65.0.0.1 a 65.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:65.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:65.63.255.255
+range da 65.32.0.1 a 65.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:65.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:65.95.255.255
+range da 65.64.0.1 a 65.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+230)FLSM di 9.244.124.180/15: 3 reti da 16381 host ciascuna
+indirizzo:9.244.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:9.244.63.255
+range da 9.244.0.1 a 9.244.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:9.244.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:9.244.127.255
+range da 9.244.64.1 a 9.244.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:9.244.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:9.244.191.255
+range da 9.244.128.1 a 9.244.191.254
+magic number:64
+N:15 H:14 S:3
+
+231)FLSM di 116.218.171.153/16: 3 reti da 8189 host ciascuna
+indirizzo:116.218.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:116.218.31.255
+range da 116.218.0.1 a 116.218.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:116.218.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:116.218.63.255
+range da 116.218.32.1 a 116.218.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:116.218.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:116.218.95.255
+range da 116.218.64.1 a 116.218.95.254
+magic number:32
+N:16 H:13 S:3
+
+232)FLSM di 112.207.124.117/10: 3 reti da 524285 host ciascuna
+indirizzo:112.192.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:112.199.255.255
+range da 112.192.0.1 a 112.199.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:112.200.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:112.207.255.255
+range da 112.200.0.1 a 112.207.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:112.208.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:112.215.255.255
+range da 112.208.0.1 a 112.215.255.254
+magic number:8
+N:10 H:19 S:3
+
+233)FLSM di 4.145.188.249/13: 3 reti da 65533 host ciascuna
+indirizzo:4.144.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:4.144.255.255
+range da 4.144.0.1 a 4.144.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:4.145.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:4.145.255.255
+range da 4.145.0.1 a 4.145.255.254
+magic number:1
+N:13 H:16 S:3
+
+indirizzo:4.146.0.0/16
+netmask: 255.255.0.0
+indirizzo broadcast:4.146.255.255
+range da 4.146.0.1 a 4.146.255.254
+magic number:1
+N:13 H:16 S:3
+
+234)FLSM di 21.231.169.33/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+235)FLSM di 84.90.71.141/14: 3 reti da 32765 host ciascuna
+indirizzo:84.88.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:84.88.127.255
+range da 84.88.0.1 a 84.88.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:84.88.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:84.88.255.255
+range da 84.88.128.1 a 84.88.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:84.89.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:84.89.127.255
+range da 84.89.0.1 a 84.89.127.254
+magic number:128
+N:14 H:15 S:3
+
+236)FLSM di 98.182.248.241/14: 3 reti da 32765 host ciascuna
+indirizzo:98.180.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:98.180.127.255
+range da 98.180.0.1 a 98.180.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:98.180.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:98.180.255.255
+range da 98.180.128.1 a 98.180.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:98.181.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:98.181.127.255
+range da 98.181.0.1 a 98.181.127.254
+magic number:128
+N:14 H:15 S:3
+
+237)FLSM di 17.39.182.177/12: 3 reti da 131069 host ciascuna
+indirizzo:17.32.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:17.33.255.255
+range da 17.32.0.1 a 17.33.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:17.34.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:17.35.255.255
+range da 17.34.0.1 a 17.35.255.254
+magic number:2
+N:12 H:17 S:3
+
+indirizzo:17.36.0.0/15
+netmask: 255.254.0.0
+indirizzo broadcast:17.37.255.255
+range da 17.36.0.1 a 17.37.255.254
+magic number:2
+N:12 H:17 S:3
+
+238)FLSM di 84.58.198.146/16: 3 reti da 8189 host ciascuna
+indirizzo:84.58.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:84.58.31.255
+range da 84.58.0.1 a 84.58.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:84.58.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:84.58.63.255
+range da 84.58.32.1 a 84.58.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:84.58.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:84.58.95.255
+range da 84.58.64.1 a 84.58.95.254
+magic number:32
+N:16 H:13 S:3
+
+239)FLSM di 45.238.3.97/20: 3 reti da 509 host ciascuna
+indirizzo:45.238.0.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.238.1.255
+range da 45.238.0.1 a 45.238.1.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:45.238.2.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.238.3.255
+range da 45.238.2.1 a 45.238.3.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:45.238.4.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:45.238.5.255
+range da 45.238.4.1 a 45.238.5.254
+magic number:2
+N:20 H:9 S:3
+
+240)FLSM di 65.15.156.86/21: 3 reti da 253 host ciascuna
+indirizzo:65.15.152.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:65.15.152.255
+range da 65.15.152.1 a 65.15.152.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:65.15.153.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:65.15.153.255
+range da 65.15.153.1 a 65.15.153.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:65.15.154.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:65.15.154.255
+range da 65.15.154.1 a 65.15.154.254
+magic number:1
+N:21 H:8 S:3
+
+241)FLSM di 108.237.127.221/10: 3 reti da 524285 host ciascuna
+indirizzo:108.192.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:108.199.255.255
+range da 108.192.0.1 a 108.199.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:108.200.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:108.207.255.255
+range da 108.200.0.1 a 108.207.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:108.208.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:108.215.255.255
+range da 108.208.0.1 a 108.215.255.254
+magic number:8
+N:10 H:19 S:3
+
+242)FLSM di 63.67.93.187/5: 3 reti da 16777213 host ciascuna
+indirizzo:56.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:56.255.255.255
+range da 56.0.0.1 a 56.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:57.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:57.255.255.255
+range da 57.0.0.1 a 57.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:58.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:58.255.255.255
+range da 58.0.0.1 a 58.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+243)FLSM di 80.55.185.5/27: 3 reti da 1 host ciascuna
+indirizzo:80.55.185.0/30
+netmask: 255.255.255.252
+indirizzo broadcast:80.55.185.3
+range da 80.55.185.1 a 80.55.185.2
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:80.55.185.4/30
+netmask: 255.255.255.252
+indirizzo broadcast:80.55.185.7
+range da 80.55.185.5 a 80.55.185.6
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:80.55.185.8/30
+netmask: 255.255.255.252
+indirizzo broadcast:80.55.185.11
+range da 80.55.185.9 a 80.55.185.10
+magic number:4
+N:27 H:2 S:3
+
+244)FLSM di 102.53.38.52/20: 3 reti da 509 host ciascuna
+indirizzo:102.53.32.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:102.53.33.255
+range da 102.53.32.1 a 102.53.33.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:102.53.34.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:102.53.35.255
+range da 102.53.34.1 a 102.53.35.254
+magic number:2
+N:20 H:9 S:3
+
+indirizzo:102.53.36.0/23
+netmask: 255.255.254.0
+indirizzo broadcast:102.53.37.255
+range da 102.53.36.1 a 102.53.37.254
+magic number:2
+N:20 H:9 S:3
+
+245)FLSM di 52.188.58.37/17: 3 reti da 4093 host ciascuna
+indirizzo:52.188.0.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:52.188.15.255
+range da 52.188.0.1 a 52.188.15.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:52.188.16.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:52.188.31.255
+range da 52.188.16.1 a 52.188.31.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:52.188.32.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:52.188.47.255
+range da 52.188.32.1 a 52.188.47.254
+magic number:16
+N:17 H:12 S:3
+
+246)FLSM di 3.102.47.21/19: 3 reti da 1021 host ciascuna
+indirizzo:3.102.32.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:3.102.35.255
+range da 3.102.32.1 a 3.102.35.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:3.102.36.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:3.102.39.255
+range da 3.102.36.1 a 3.102.39.254
+magic number:4
+N:19 H:10 S:3
+
+indirizzo:3.102.40.0/22
+netmask: 255.255.252.0
+indirizzo broadcast:3.102.43.255
+range da 3.102.40.1 a 3.102.43.254
+magic number:4
+N:19 H:10 S:3
+
+247)FLSM di 10.127.6.49/24: 3 reti da 29 host ciascuna
+indirizzo:10.127.6.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:10.127.6.31
+range da 10.127.6.1 a 10.127.6.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:10.127.6.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:10.127.6.63
+range da 10.127.6.33 a 10.127.6.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:10.127.6.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:10.127.6.95
+range da 10.127.6.65 a 10.127.6.94
+magic number:32
+N:24 H:5 S:3
+
+248)FLSM di 12.165.127.154/17: 3 reti da 4093 host ciascuna
+indirizzo:12.165.0.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:12.165.15.255
+range da 12.165.0.1 a 12.165.15.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:12.165.16.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:12.165.31.255
+range da 12.165.16.1 a 12.165.31.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:12.165.32.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:12.165.47.255
+range da 12.165.32.1 a 12.165.47.254
+magic number:16
+N:17 H:12 S:3
+
+249)FLSM di 123.3.127.246/22: 3 reti da 125 host ciascuna
+indirizzo:123.3.124.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:123.3.124.127
+range da 123.3.124.1 a 123.3.124.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:123.3.124.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:123.3.124.255
+range da 123.3.124.129 a 123.3.124.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:123.3.125.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:123.3.125.127
+range da 123.3.125.1 a 123.3.125.126
+magic number:128
+N:22 H:7 S:3
+
+250)FLSM di 114.201.2.144/10: 3 reti da 524285 host ciascuna
+indirizzo:114.192.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:114.199.255.255
+range da 114.192.0.1 a 114.199.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:114.200.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:114.207.255.255
+range da 114.200.0.1 a 114.207.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:114.208.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:114.215.255.255
+range da 114.208.0.1 a 114.215.255.254
+magic number:8
+N:10 H:19 S:3
+
+251)FLSM di 37.120.242.238/26: 3 reti da 5 host ciascuna
+indirizzo:37.120.242.192/29
+netmask: 255.255.255.248
+indirizzo broadcast:37.120.242.199
+range da 37.120.242.193 a 37.120.242.198
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:37.120.242.200/29
+netmask: 255.255.255.248
+indirizzo broadcast:37.120.242.207
+range da 37.120.242.201 a 37.120.242.206
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:37.120.242.208/29
+netmask: 255.255.255.248
+indirizzo broadcast:37.120.242.215
+range da 37.120.242.209 a 37.120.242.214
+magic number:8
+N:26 H:3 S:3
+
+252)FLSM di 81.195.8.165/24: 3 reti da 29 host ciascuna
+indirizzo:81.195.8.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:81.195.8.31
+range da 81.195.8.1 a 81.195.8.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:81.195.8.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:81.195.8.63
+range da 81.195.8.33 a 81.195.8.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:81.195.8.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:81.195.8.95
+range da 81.195.8.65 a 81.195.8.94
+magic number:32
+N:24 H:5 S:3
+
+253)FLSM di 70.121.128.209/10: 3 reti da 524285 host ciascuna
+indirizzo:70.64.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:70.71.255.255
+range da 70.64.0.1 a 70.71.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:70.72.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:70.79.255.255
+range da 70.72.0.1 a 70.79.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:70.80.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:70.87.255.255
+range da 70.80.0.1 a 70.87.255.254
+magic number:8
+N:10 H:19 S:3
+
+254)FLSM di 62.58.118.191/7: 3 reti da 4194301 host ciascuna
+indirizzo:62.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:62.63.255.255
+range da 62.0.0.1 a 62.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:62.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:62.127.255.255
+range da 62.64.0.1 a 62.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:62.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:62.191.255.255
+range da 62.128.0.1 a 62.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+255)FLSM di 22.176.47.218/8: 3 reti da 2097149 host ciascuna
+indirizzo:22.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:22.31.255.255
+range da 22.0.0.1 a 22.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:22.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:22.63.255.255
+range da 22.32.0.1 a 22.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:22.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:22.95.255.255
+range da 22.64.0.1 a 22.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+256)FLSM di 9.243.81.132/24: 3 reti da 29 host ciascuna
+indirizzo:9.243.81.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:9.243.81.31
+range da 9.243.81.1 a 9.243.81.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:9.243.81.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:9.243.81.63
+range da 9.243.81.33 a 9.243.81.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:9.243.81.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:9.243.81.95
+range da 9.243.81.65 a 9.243.81.94
+magic number:32
+N:24 H:5 S:3
+
+257)FLSM di 34.9.243.45/8: 3 reti da 2097149 host ciascuna
+indirizzo:34.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:34.31.255.255
+range da 34.0.0.1 a 34.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:34.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:34.63.255.255
+range da 34.32.0.1 a 34.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:34.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:34.95.255.255
+range da 34.64.0.1 a 34.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+258)FLSM di 10.17.150.234/26: 3 reti da 5 host ciascuna
+indirizzo:10.17.150.192/29
+netmask: 255.255.255.248
+indirizzo broadcast:10.17.150.199
+range da 10.17.150.193 a 10.17.150.198
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:10.17.150.200/29
+netmask: 255.255.255.248
+indirizzo broadcast:10.17.150.207
+range da 10.17.150.201 a 10.17.150.206
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:10.17.150.208/29
+netmask: 255.255.255.248
+indirizzo broadcast:10.17.150.215
+range da 10.17.150.209 a 10.17.150.214
+magic number:8
+N:26 H:3 S:3
+
+259)FLSM di 27.50.64.3/22: 3 reti da 125 host ciascuna
+indirizzo:27.50.64.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:27.50.64.127
+range da 27.50.64.1 a 27.50.64.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:27.50.64.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:27.50.64.255
+range da 27.50.64.129 a 27.50.64.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:27.50.65.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:27.50.65.127
+range da 27.50.65.1 a 27.50.65.126
+magic number:128
+N:22 H:7 S:3
+
+260)FLSM di 115.5.252.143/24: 3 reti da 29 host ciascuna
+indirizzo:115.5.252.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:115.5.252.31
+range da 115.5.252.1 a 115.5.252.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:115.5.252.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:115.5.252.63
+range da 115.5.252.33 a 115.5.252.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:115.5.252.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:115.5.252.95
+range da 115.5.252.65 a 115.5.252.94
+magic number:32
+N:24 H:5 S:3
+
+261)FLSM di 9.113.180.87/26: 3 reti da 5 host ciascuna
+indirizzo:9.113.180.64/29
+netmask: 255.255.255.248
+indirizzo broadcast:9.113.180.71
+range da 9.113.180.65 a 9.113.180.70
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:9.113.180.72/29
+netmask: 255.255.255.248
+indirizzo broadcast:9.113.180.79
+range da 9.113.180.73 a 9.113.180.78
+magic number:8
+N:26 H:3 S:3
+
+indirizzo:9.113.180.80/29
+netmask: 255.255.255.248
+indirizzo broadcast:9.113.180.87
+range da 9.113.180.81 a 9.113.180.86
+magic number:8
+N:26 H:3 S:3
+
+262)FLSM di 73.149.229.3/22: 3 reti da 125 host ciascuna
+indirizzo:73.149.228.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:73.149.228.127
+range da 73.149.228.1 a 73.149.228.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:73.149.228.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:73.149.228.255
+range da 73.149.228.129 a 73.149.228.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:73.149.229.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:73.149.229.127
+range da 73.149.229.1 a 73.149.229.126
+magic number:128
+N:22 H:7 S:3
+
+263)FLSM di 40.62.28.212/3: 3 reti da 67108861 host ciascuna
+indirizzo:32.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:35.255.255.255
+range da 32.0.0.1 a 35.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:36.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:39.255.255.255
+range da 36.0.0.1 a 39.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:40.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:43.255.255.255
+range da 40.0.0.1 a 43.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+264)FLSM di 22.235.96.89/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+265)FLSM di 69.151.221.41/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+266)FLSM di 47.108.211.114/22: 3 reti da 125 host ciascuna
+indirizzo:47.108.208.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:47.108.208.127
+range da 47.108.208.1 a 47.108.208.126
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:47.108.208.128/25
+netmask: 255.255.255.128
+indirizzo broadcast:47.108.208.255
+range da 47.108.208.129 a 47.108.208.254
+magic number:128
+N:22 H:7 S:3
+
+indirizzo:47.108.209.0/25
+netmask: 255.255.255.128
+indirizzo broadcast:47.108.209.127
+range da 47.108.209.1 a 47.108.209.126
+magic number:128
+N:22 H:7 S:3
+
+267)FLSM di 80.184.44.11/3: 3 reti da 67108861 host ciascuna
+indirizzo:64.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 64.0.0.1 a 67.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:68.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 68.0.0.1 a 71.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+indirizzo:72.0.0.0/6
+netmask: 252.0.0.0
+indirizzo broadcast:75.255.255.255
+range da 72.0.0.1 a 75.255.255.254
+magic number:4
+N:3 H:26 S:3
+
+268)FLSM di 25.165.157.133/17: 3 reti da 4093 host ciascuna
+indirizzo:25.165.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:25.165.143.255
+range da 25.165.128.1 a 25.165.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:25.165.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:25.165.159.255
+range da 25.165.144.1 a 25.165.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:25.165.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:25.165.175.255
+range da 25.165.160.1 a 25.165.175.254
+magic number:16
+N:17 H:12 S:3
+
+269)FLSM di 0.224.232.30/24: 3 reti da 29 host ciascuna
+indirizzo:0.224.232.0/27
+netmask: 255.255.255.224
+indirizzo broadcast:0.224.232.31
+range da 0.224.232.1 a 0.224.232.30
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:0.224.232.32/27
+netmask: 255.255.255.224
+indirizzo broadcast:0.224.232.63
+range da 0.224.232.33 a 0.224.232.62
+magic number:32
+N:24 H:5 S:3
+
+indirizzo:0.224.232.64/27
+netmask: 255.255.255.224
+indirizzo broadcast:0.224.232.95
+range da 0.224.232.65 a 0.224.232.94
+magic number:32
+N:24 H:5 S:3
+
+270)FLSM di 30.186.202.3/6: 3 reti da 8388605 host ciascuna
+indirizzo:28.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:28.127.255.255
+range da 28.0.0.1 a 28.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:28.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:28.255.255.255
+range da 28.128.0.1 a 28.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:29.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:29.127.255.255
+range da 29.0.0.1 a 29.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+271)FLSM di 3.8.10.225/7: 3 reti da 4194301 host ciascuna
+indirizzo:2.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:2.63.255.255
+range da 2.0.0.1 a 2.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:2.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:2.127.255.255
+range da 2.64.0.1 a 2.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:2.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:2.191.255.255
+range da 2.128.0.1 a 2.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+272)FLSM di 109.132.165.142/8: 3 reti da 2097149 host ciascuna
+indirizzo:109.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:109.31.255.255
+range da 109.0.0.1 a 109.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:109.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:109.63.255.255
+range da 109.32.0.1 a 109.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:109.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:109.95.255.255
+range da 109.64.0.1 a 109.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+273)FLSM di 2.217.38.16/15: 3 reti da 16381 host ciascuna
+indirizzo:2.216.0.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.216.63.255
+range da 2.216.0.1 a 2.216.63.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:2.216.64.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.216.127.255
+range da 2.216.64.1 a 2.216.127.254
+magic number:64
+N:15 H:14 S:3
+
+indirizzo:2.216.128.0/18
+netmask: 255.255.192.0
+indirizzo broadcast:2.216.191.255
+range da 2.216.128.1 a 2.216.191.254
+magic number:64
+N:15 H:14 S:3
+
+274)FLSM di 45.81.23.113/6: 3 reti da 8388605 host ciascuna
+indirizzo:44.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:44.127.255.255
+range da 44.0.0.1 a 44.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:44.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:44.255.255.255
+range da 44.128.0.1 a 44.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:45.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:45.127.255.255
+range da 45.0.0.1 a 45.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+275)FLSM di 54.100.13.136/10: 3 reti da 524285 host ciascuna
+indirizzo:54.64.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:54.71.255.255
+range da 54.64.0.1 a 54.71.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:54.72.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:54.79.255.255
+range da 54.72.0.1 a 54.79.255.254
+magic number:8
+N:10 H:19 S:3
+
+indirizzo:54.80.0.0/13
+netmask: 255.248.0.0
+indirizzo broadcast:54.87.255.255
+range da 54.80.0.1 a 54.87.255.254
+magic number:8
+N:10 H:19 S:3
+
+276)FLSM di 60.163.213.45/9: 3 reti da 1048573 host ciascuna
+indirizzo:60.128.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:60.143.255.255
+range da 60.128.0.1 a 60.143.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:60.144.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:60.159.255.255
+range da 60.144.0.1 a 60.159.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:60.160.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:60.175.255.255
+range da 60.160.0.1 a 60.175.255.254
+magic number:16
+N:9 H:20 S:3
+
+277)FLSM di 29.220.22.193/11: 3 reti da 262141 host ciascuna
+indirizzo:29.192.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:29.195.255.255
+range da 29.192.0.1 a 29.195.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:29.196.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:29.199.255.255
+range da 29.196.0.1 a 29.199.255.254
+magic number:4
+N:11 H:18 S:3
+
+indirizzo:29.200.0.0/14
+netmask: 255.252.0.0
+indirizzo broadcast:29.203.255.255
+range da 29.200.0.1 a 29.203.255.254
+magic number:4
+N:11 H:18 S:3
+
+278)FLSM di 101.215.40.113/25: 3 reti da 13 host ciascuna
+indirizzo:101.215.40.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:101.215.40.15
+range da 101.215.40.1 a 101.215.40.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:101.215.40.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:101.215.40.31
+range da 101.215.40.17 a 101.215.40.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:101.215.40.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:101.215.40.47
+range da 101.215.40.33 a 101.215.40.46
+magic number:16
+N:25 H:4 S:3
+
+279)FLSM di 92.117.30.205/5: 3 reti da 16777213 host ciascuna
+indirizzo:88.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:88.255.255.255
+range da 88.0.0.1 a 88.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:89.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:89.255.255.255
+range da 89.0.0.1 a 89.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:90.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:90.255.255.255
+range da 90.0.0.1 a 90.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+280)FLSM di 105.91.208.96/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+281)FLSM di 6.118.235.179/5: 3 reti da 16777213 host ciascuna
+indirizzo:0.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:0.255.255.255
+range da 0.0.0.1 a 0.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:1.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:1.255.255.255
+range da 1.0.0.1 a 1.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+indirizzo:2.0.0.0/8
+netmask: 255.0.0.0
+indirizzo broadcast:2.255.255.255
+range da 2.0.0.1 a 2.255.255.254
+magic number:1
+N:5 H:24 S:3
+
+282)FLSM di 13.29.204.14/1: 3 reti da 268435453 host ciascuna
+indirizzo:0.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 0.0.0.1 a 15.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:16.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:31.255.255.255
+range da 16.0.0.1 a 31.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+indirizzo:32.0.0.0/4
+netmask: 240.0.0.0
+indirizzo broadcast:47.255.255.255
+range da 32.0.0.1 a 47.255.255.254
+magic number:16
+N:1 H:28 S:3
+
+283)FLSM di 25.248.127.233/2: 3 reti da 134217725 host ciascuna
+indirizzo:0.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:7.255.255.255
+range da 0.0.0.1 a 7.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:8.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:15.255.255.255
+range da 8.0.0.1 a 15.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:16.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:23.255.255.255
+range da 16.0.0.1 a 23.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+284)FLSM di 110.96.196.155/17: 3 reti da 4093 host ciascuna
+indirizzo:110.96.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:110.96.143.255
+range da 110.96.128.1 a 110.96.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:110.96.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:110.96.159.255
+range da 110.96.144.1 a 110.96.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:110.96.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:110.96.175.255
+range da 110.96.160.1 a 110.96.175.254
+magic number:16
+N:17 H:12 S:3
+
+285)FLSM di 126.163.125.216/7: 3 reti da 4194301 host ciascuna
+indirizzo:126.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.63.255.255
+range da 126.0.0.1 a 126.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:126.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.127.255.255
+range da 126.64.0.1 a 126.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:126.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:126.191.255.255
+range da 126.128.0.1 a 126.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+286)FLSM di 50.106.128.0/21: 3 reti da 253 host ciascuna
+indirizzo:50.106.128.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:50.106.128.255
+range da 50.106.128.1 a 50.106.128.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:50.106.129.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:50.106.129.255
+range da 50.106.129.1 a 50.106.129.254
+magic number:1
+N:21 H:8 S:3
+
+indirizzo:50.106.130.0/24
+netmask: 255.255.255.0
+indirizzo broadcast:50.106.130.255
+range da 50.106.130.1 a 50.106.130.254
+magic number:1
+N:21 H:8 S:3
+
+287)FLSM di 53.201.170.38/18: 3 reti da 2045 host ciascuna
+indirizzo:53.201.128.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:53.201.135.255
+range da 53.201.128.1 a 53.201.135.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:53.201.136.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:53.201.143.255
+range da 53.201.136.1 a 53.201.143.254
+magic number:8
+N:18 H:11 S:3
+
+indirizzo:53.201.144.0/21
+netmask: 255.255.248.0
+indirizzo broadcast:53.201.151.255
+range da 53.201.144.1 a 53.201.151.254
+magic number:8
+N:18 H:11 S:3
+
+288)FLSM di 38.189.134.201/25: 3 reti da 13 host ciascuna
+indirizzo:38.189.134.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:38.189.134.143
+range da 38.189.134.129 a 38.189.134.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:38.189.134.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:38.189.134.159
+range da 38.189.134.145 a 38.189.134.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:38.189.134.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:38.189.134.175
+range da 38.189.134.161 a 38.189.134.174
+magic number:16
+N:25 H:4 S:3
+
+289)FLSM di 86.174.54.74/2: 3 reti da 134217725 host ciascuna
+indirizzo:64.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:71.255.255.255
+range da 64.0.0.1 a 71.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:72.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:79.255.255.255
+range da 72.0.0.1 a 79.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+indirizzo:80.0.0.0/5
+netmask: 248.0.0.0
+indirizzo broadcast:87.255.255.255
+range da 80.0.0.1 a 87.255.255.254
+magic number:8
+N:2 H:27 S:3
+
+290)FLSM di 116.101.178.58/25: 3 reti da 13 host ciascuna
+indirizzo:116.101.178.0/28
+netmask: 255.255.255.240
+indirizzo broadcast:116.101.178.15
+range da 116.101.178.1 a 116.101.178.14
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:116.101.178.16/28
+netmask: 255.255.255.240
+indirizzo broadcast:116.101.178.31
+range da 116.101.178.17 a 116.101.178.30
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:116.101.178.32/28
+netmask: 255.255.255.240
+indirizzo broadcast:116.101.178.47
+range da 116.101.178.33 a 116.101.178.46
+magic number:16
+N:25 H:4 S:3
+
+291)FLSM di 13.191.49.111/7: 3 reti da 4194301 host ciascuna
+indirizzo:12.0.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:12.63.255.255
+range da 12.0.0.1 a 12.63.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:12.64.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:12.127.255.255
+range da 12.64.0.1 a 12.127.255.254
+magic number:64
+N:7 H:22 S:3
+
+indirizzo:12.128.0.0/10
+netmask: 255.192.0.0
+indirizzo broadcast:12.191.255.255
+range da 12.128.0.1 a 12.191.255.254
+magic number:64
+N:7 H:22 S:3
+
+292)FLSM di 25.139.197.167/8: 3 reti da 2097149 host ciascuna
+indirizzo:25.0.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:25.31.255.255
+range da 25.0.0.1 a 25.31.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:25.32.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:25.63.255.255
+range da 25.32.0.1 a 25.63.255.254
+magic number:32
+N:8 H:21 S:3
+
+indirizzo:25.64.0.0/11
+netmask: 255.224.0.0
+indirizzo broadcast:25.95.255.255
+range da 25.64.0.1 a 25.95.255.254
+magic number:32
+N:8 H:21 S:3
+
+293)FLSM di 88.91.252.145/17: 3 reti da 4093 host ciascuna
+indirizzo:88.91.128.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:88.91.143.255
+range da 88.91.128.1 a 88.91.143.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:88.91.144.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:88.91.159.255
+range da 88.91.144.1 a 88.91.159.254
+magic number:16
+N:17 H:12 S:3
+
+indirizzo:88.91.160.0/20
+netmask: 255.255.240.0
+indirizzo broadcast:88.91.175.255
+range da 88.91.160.1 a 88.91.175.254
+magic number:16
+N:17 H:12 S:3
+
+294)FLSM di 112.88.226.170/25: 3 reti da 13 host ciascuna
+indirizzo:112.88.226.128/28
+netmask: 255.255.255.240
+indirizzo broadcast:112.88.226.143
+range da 112.88.226.129 a 112.88.226.142
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:112.88.226.144/28
+netmask: 255.255.255.240
+indirizzo broadcast:112.88.226.159
+range da 112.88.226.145 a 112.88.226.158
+magic number:16
+N:25 H:4 S:3
+
+indirizzo:112.88.226.160/28
+netmask: 255.255.255.240
+indirizzo broadcast:112.88.226.175
+range da 112.88.226.161 a 112.88.226.174
+magic number:16
+N:25 H:4 S:3
+
+295)FLSM di 24.13.224.107/14: 3 reti da 32765 host ciascuna
+indirizzo:24.12.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:24.12.127.255
+range da 24.12.0.1 a 24.12.127.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:24.12.128.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:24.12.255.255
+range da 24.12.128.1 a 24.12.255.254
+magic number:128
+N:14 H:15 S:3
+
+indirizzo:24.13.0.0/17
+netmask: 255.255.128.0
+indirizzo broadcast:24.13.127.255
+range da 24.13.0.1 a 24.13.127.254
+magic number:128
+N:14 H:15 S:3
+
+296)FLSM di 90.128.112.195/6: 3 reti da 8388605 host ciascuna
+indirizzo:88.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:88.127.255.255
+range da 88.0.0.1 a 88.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:88.128.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:88.255.255.255
+range da 88.128.0.1 a 88.255.255.254
+magic number:128
+N:6 H:23 S:3
+
+indirizzo:89.0.0.0/9
+netmask: 255.128.0.0
+indirizzo broadcast:89.127.255.255
+range da 89.0.0.1 a 89.127.255.254
+magic number:128
+N:6 H:23 S:3
+
+297)FLSM di 77.254.230.27/4: 3 reti da 33554429 host ciascuna
+indirizzo:64.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:65.255.255.255
+range da 64.0.0.1 a 65.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:66.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:67.255.255.255
+range da 66.0.0.1 a 67.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+indirizzo:68.0.0.0/7
+netmask: 254.0.0.0
+indirizzo broadcast:69.255.255.255
+range da 68.0.0.1 a 69.255.255.254
+magic number:2
+N:4 H:25 S:3
+
+298)FLSM di 75.239.22.13/27: 3 reti da 1 host ciascuna
+indirizzo:75.239.22.0/30
+netmask: 255.255.255.252
+indirizzo broadcast:75.239.22.3
+range da 75.239.22.1 a 75.239.22.2
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:75.239.22.4/30
+netmask: 255.255.255.252
+indirizzo broadcast:75.239.22.7
+range da 75.239.22.5 a 75.239.22.6
+magic number:4
+N:27 H:2 S:3
+
+indirizzo:75.239.22.8/30
+netmask: 255.255.255.252
+indirizzo broadcast:75.239.22.11
+range da 75.239.22.9 a 75.239.22.10
+magic number:4
+N:27 H:2 S:3
+
+299)FLSM di 73.123.57.85/9: 3 reti da 1048573 host ciascuna
+indirizzo:73.0.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:73.15.255.255
+range da 73.0.0.1 a 73.15.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:73.16.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:73.31.255.255
+range da 73.16.0.1 a 73.31.255.254
+magic number:16
+N:9 H:20 S:3
+
+indirizzo:73.32.0.0/12
+netmask: 255.240.0.0
+indirizzo broadcast:73.47.255.255
+range da 73.32.0.1 a 73.47.255.254
+magic number:16
+N:9 H:20 S:3
+
+300)FLSM di 76.62.28.159/16: 3 reti da 8189 host ciascuna
+indirizzo:76.62.0.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:76.62.31.255
+range da 76.62.0.1 a 76.62.31.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:76.62.32.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:76.62.63.255
+range da 76.62.32.1 a 76.62.63.254
+magic number:32
+N:16 H:13 S:3
+
+indirizzo:76.62.64.0/19
+netmask: 255.255.224.0
+indirizzo broadcast:76.62.95.255
+range da 76.62.64.1 a 76.62.95.254
+magic number:32
+N:16 H:13 S:3
+
