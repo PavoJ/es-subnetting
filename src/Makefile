@@ -17,6 +17,7 @@ _OBJ = main.o IPv4Address.o VLSM.o FLSM.o Exercises.o
 OBJ = $(patsubst %, $(ODIR)/%, $(_OBJ))
 
 $(ODIR)/%.o: %.cpp $(DEPS)
+	mkdir -p $(ODIR)
 	$(CC) -c -o $@ $< $(CFLAGS)
 
 $(BUILDDIR)/esercizi-subnetting: $(OBJ) 
@@ -26,4 +27,5 @@ $(BUILDDIR)/esercizi-subnetting: $(OBJ)
 
 clean:
 	# https://stackoverflow.com/questions/31999634/what-is-core-in-the-command-rm-f-core-incdir
-	rm -f $(ODIR)/*.o *~ core $(INCDIR)/*~
+	rm -rf $(ODIR)
+	rm -f *~ core $(INCDIR)/*~
